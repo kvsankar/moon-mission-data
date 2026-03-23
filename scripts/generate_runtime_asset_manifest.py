@@ -23,36 +23,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-THIRD_PARTY_PROVENANCE = {
-    "third-party/d3.v3.min.js": {
-        "package": "d3",
-        "version": "3.x",
-        "license": "BSD-3-Clause",
-        "upstream_url": "https://d3js.org/",
-        "status": "documented",
-    },
-    "third-party/jquery-1.9.1.js": {
-        "package": "jQuery",
-        "version": "1.9.1",
-        "license": "MIT",
-        "upstream_url": "https://code.jquery.com/jquery-1.9.1.js",
-        "status": "documented",
-    },
-    "third-party/TrackballControls.js": {
-        "package": "three.js TrackballControls",
-        "version": "legacy vendored snapshot",
-        "license": "MIT",
-        "upstream_url": "https://github.com/mrdoob/three.js/",
-        "status": "documented",
-    },
-    "third-party/threex.atmospherematerial.js": {
-        "package": "THREEx AtmosphereMaterial",
-        "version": "legacy vendored snapshot",
-        "license": "legacy/verify",
-        "upstream_url": "https://github.com/jeromeetienne/threex/",
-        "status": "legacy-unverified",
-    },
-}
+THIRD_PARTY_PROVENANCE = {}
 
 
 def _read_json(path: Path) -> dict:

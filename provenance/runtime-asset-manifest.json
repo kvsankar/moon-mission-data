@@ -1,18 +1,18 @@
 {
-  "generated_at_utc": "2026-03-23T10:50:00.710279+00:00",
+  "generated_at_utc": "2026-03-23T11:41:33.258105+00:00",
   "app_repo": {
     "path": "C:/sankar/projects/moon-mission",
-    "git_commit": "80e977264a369fa1f6e50055cb35a72c7a73ed41",
+    "git_commit": "abc6c7d054d702f06f72400b36508b90bb8c88c3",
     "git_branch": "master"
   },
   "data_repo": {
     "path": "C:/sankar/projects/moon-mission-data",
-    "git_commit": "5cbb8b41452df55e62e7364e4e44881d3b4abcd3",
+    "git_commit": "2da9bc5eb72b56c242aa8d145dd9ca08c24a099c",
     "git_branch": "main"
   },
   "counts": {
-    "required_paths": 74,
-    "tracked_paths": 78,
+    "required_paths": 70,
+    "tracked_paths": 74,
     "missing_required": 0,
     "unused_tracked": 0
   },
@@ -857,66 +857,6 @@
       "provenance": {
         "status": "legacy-unverified",
         "source": "Legacy media migrated from moon-mission; upstream attribution source pending full audit."
-      }
-    },
-    {
-      "path": "third-party/TrackballControls.js",
-      "category": "third-party",
-      "reason": "platform-import:src/platform/js/rendering/camera-controller.js",
-      "exists": true,
-      "size_bytes": 18053,
-      "sha256": "e773a11e9c98bbb920c6f30a6e3da06843bf1ff6d746c054c754fc225c788f36",
-      "provenance": {
-        "package": "three.js TrackballControls",
-        "version": "legacy vendored snapshot",
-        "license": "MIT",
-        "upstream_url": "https://github.com/mrdoob/three.js/",
-        "status": "documented"
-      }
-    },
-    {
-      "path": "third-party/d3.v3.min.js",
-      "category": "third-party",
-      "reason": "mission-html:script-tag",
-      "exists": true,
-      "size_bytes": 146386,
-      "sha256": "2c2c62b8601d2a6213c0e75a52c341953d22ca1704b11f463de2fc88972f4101",
-      "provenance": {
-        "package": "d3",
-        "version": "3.x",
-        "license": "BSD-3-Clause",
-        "upstream_url": "https://d3js.org/",
-        "status": "documented"
-      }
-    },
-    {
-      "path": "third-party/jquery-1.9.1.js",
-      "category": "third-party",
-      "reason": "mission-html:script-tag",
-      "exists": true,
-      "size_bytes": 268381,
-      "sha256": "7bd80d06c01c0340c1b9159b9b4a197db882ca18cbac8e9b9aa025e68f998d40",
-      "provenance": {
-        "package": "jQuery",
-        "version": "1.9.1",
-        "license": "MIT",
-        "upstream_url": "https://code.jquery.com/jquery-1.9.1.js",
-        "status": "documented"
-      }
-    },
-    {
-      "path": "third-party/threex.atmospherematerial.js",
-      "category": "third-party",
-      "reason": "mission-html:script-tag",
-      "exists": true,
-      "size_bytes": 1493,
-      "sha256": "660507076917f17f543f536ddaca5bfe3651e641447006dc920fb6302609050a",
-      "provenance": {
-        "package": "THREEx AtmosphereMaterial",
-        "version": "legacy vendored snapshot",
-        "license": "legacy/verify",
-        "upstream_url": "https://github.com/jeromeetienne/threex/",
-        "status": "legacy-unverified"
       }
     }
   ]
