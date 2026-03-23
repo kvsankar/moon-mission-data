@@ -8,6 +8,10 @@ This directory contains reproducible provenance records for files retained in `m
   - Generated artifact listing every runtime file required by the current `moon-mission` app.
   - Includes category, reason-for-retention, existence checks, and SHA-256 hash for each required file.
   - Includes `missing_required` and `unused_tracked` lists for audit.
+- `shared-image-attribution.json`
+  - Source-of-truth attribution records for shared runtime textures under `images/`.
+  - Captures commit-history trace from `moon-mission` / `chandrayaan3-origin`, migration commit in `moon-mission-data`, and hash-matched upstream URLs where available.
+  - Consumed by `scripts/generate_runtime_asset_manifest.py` when assigning `provenance` to `shared-image` assets.
 
 ## Regeneration
 

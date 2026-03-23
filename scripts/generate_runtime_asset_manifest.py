@@ -39,6 +39,19 @@ def _sha256(path: Path) -> str:
     return digest.hexdigest()
 
 
+def load_shared_image_provenance(data_root: Path) -> dict[str, dict]:
+    provenance_path = data_root / "provenance" / "shared-image-attribution.json"
+    if not provenance_path.exists():
+        return {}
+
+    payload = _read_json(provenance_path)
+    entries = payload.get("entries", {})
+    if not isinstance(entries, dict):
+        return {}
+
+    return {path: entry for path, entry in entries.items() if isinstance(entry, dict)}
+
+
 def _find_platform_file(app_root: Path, rel_path: str) -> Path:
     candidates = [
         app_root / "src" / "platform" / rel_path,
@@ -157,7 +170,7 @@ def classify_path(path: str) -> str:
     return "other"
 
 
-def build_entry(path: str, full_path: Path, reason: str) -> dict:
+def build_entry(path: str, full_path: Path, reason: str, shared_image_provenance: dict[str, dict]) -> dict:
     category = classify_path(path)
     exists = full_path.exists()
 
@@ -176,6 +189,15 @@ def build_entry(path: str, full_path: Path, reason: str) -> dict:
             "status": "documented",
             "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py",
         }
+    elif category == "shared-image":
+        documented = shared_image_provenance.get(path, {}).get("manifest_provenance")
+        if isinstance(documented, dict):
+            entry["provenance"] = documented
+        else:
+            entry["provenance"] = {
+                "status": "legacy-unverified",
+                "source": "Legacy media migrated from moon-mission; upstream attribution source pending full audit.",
+            }
     elif category == "third-party":
         entry["provenance"] = THIRD_PARTY_PROVENANCE.get(
             path,
@@ -226,6 +248,7 @@ def main() -> int:
     output_path = (data_root / args.output).resolve()
 
     required, reasons = collect_required(app_root)
+    shared_image_provenance = load_shared_image_provenance(data_root)
 
     tracked_paths = git(["ls-files"], cwd=data_root).splitlines()
     tracked_set = set(tracked_paths)
@@ -246,7 +269,7 @@ def main() -> int:
 
     entries = []
     for path in required_sorted:
-        entries.append(build_entry(path, data_root / path, reasons.get(path, "unknown")))
+        entries.append(build_entry(path, data_root / path, reasons.get(path, "unknown"), shared_image_provenance))
 
     payload = {
         "generated_at_utc": dt.datetime.now(dt.timezone.utc).isoformat(),

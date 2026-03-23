@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-03-23T11:41:33.258105+00:00",
+  "generated_at_utc": "2026-03-23T13:18:46.400593+00:00",
   "app_repo": {
     "path": "C:/sankar/projects/moon-mission",
-    "git_commit": "abc6c7d054d702f06f72400b36508b90bb8c88c3",
+    "git_commit": "5fec5f4baf6341716557b2ebfd8b51e1f0b8d574",
     "git_branch": "master"
   },
   "data_repo": {
     "path": "C:/sankar/projects/moon-mission-data",
-    "git_commit": "2da9bc5eb72b56c242aa8d145dd9ca08c24a099c",
+    "git_commit": "0f643131adfff1ea87cd1fdbabdb9178eeedca09",
     "git_branch": "main"
   },
   "counts": {
@@ -795,8 +795,8 @@
       "size_bytes": 9517350,
       "sha256": "5cf740c72287af7b3accf080c3951944adcb1617083b918537d08cbd9f2c5465",
       "provenance": {
-        "status": "legacy-unverified",
-        "source": "Legacy media migrated from moon-mission; upstream attribution source pending full audit."
+        "status": "documented",
+        "source": "Traced in moon-mission/chandrayaan3-origin history (introduced in c308196, moved in d7cf9ac), then migrated to moon-mission-data in 5cbb8b4. SHA-256 matches fury-gl/fury-data repository file, but that repository commit date (2019-11-20) is later than moon-mission introduction date (2019-08-25). Treat as mirror attribution."
       }
     },
     {
@@ -807,8 +807,8 @@
       "size_bytes": 116543,
       "sha256": "e39b88d326862037f3efa2ab7c153fa93938bc14b762c4c92c6fa833354caec7",
       "provenance": {
-        "status": "legacy-unverified",
-        "source": "Legacy media migrated from moon-mission; upstream attribution source pending full audit."
+        "status": "documented",
+        "source": "Traced in moon-mission/chandrayaan3-origin history (introduced in c308196, moved in d7cf9ac), then migrated to moon-mission-data in 5cbb8b4. SHA-256 matches jeromeetienne/threex.planets repository file."
       }
     },
     {
@@ -819,8 +819,8 @@
       "size_bytes": 15030356,
       "sha256": "d1875bcec83588ca25e4802e576f6bb9f88b39e1e403cb41ff55867419c54796",
       "provenance": {
-        "status": "legacy-unverified",
-        "source": "Legacy media migrated from moon-mission; upstream attribution source pending full audit."
+        "status": "documented",
+        "source": "Traced in moon-mission/chandrayaan3-origin history (introduced in e10db84 with Wikimedia noted in commit message), then migrated to moon-mission-data in 5cbb8b4. SHA-256 matches Wikimedia asset."
       }
     },
     {
@@ -832,7 +832,7 @@
       "sha256": "7d53f78a22a4664edf15a0744c6d74014873965733f95471d825329ba9cb09ba",
       "provenance": {
         "status": "legacy-unverified",
-        "source": "Legacy media migrated from moon-mission; upstream attribution source pending full audit."
+        "source": "Origin is traced to moon-mission/chandrayaan3-origin commit b4057fd and migration commit 5cbb8b4, but upstream acquisition source is not yet identified."
       }
     },
     {
@@ -843,8 +843,8 @@
       "size_bytes": 1142587,
       "sha256": "24165cc330ac9d40146cdab85148e768c1d3b421ada89f44dc9447446856691e",
       "provenance": {
-        "status": "legacy-unverified",
-        "source": "Legacy media migrated from moon-mission; upstream attribution source pending full audit."
+        "status": "documented",
+        "source": "Traced in moon-mission/chandrayaan3-origin history (introduced in ae5892c), then migrated to moon-mission-data in 5cbb8b4. SHA-256 matches NASA SVS image asset."
       }
     },
     {
@@ -855,8 +855,8 @@
       "size_bytes": 2349902,
       "sha256": "0b33503895abebeb92fd89d3332e3ca62515b8cc458d243f208e4ca5d8c1452d",
       "provenance": {
-        "status": "legacy-unverified",
-        "source": "Legacy media migrated from moon-mission; upstream attribution source pending full audit."
+        "status": "documented",
+        "source": "Traced in moon-mission/chandrayaan3-origin history (introduced in ae5892c), then migrated to moon-mission-data in 5cbb8b4. SHA-256 matches NASA SVS image asset."
       }
     }
   ]

@@ -1,0 +1,181 @@
+{
+  "generated_at_utc": "2026-03-23T12:35:00Z",
+  "scope": "Shared runtime textures referenced by moon-mission platform texture-loader.",
+  "entries": {
+    "images/earth/2_no_clouds_8k.jpg": {
+      "manifest_provenance": {
+        "status": "documented",
+        "source": "Traced in moon-mission/chandrayaan3-origin history (introduced in c308196, moved in d7cf9ac), then migrated to moon-mission-data in 5cbb8b4. SHA-256 matches fury-gl/fury-data repository file, but that repository commit date (2019-11-20) is later than moon-mission introduction date (2019-08-25). Treat as mirror attribution."
+      },
+      "origin_trace": {
+        "moon_mission": {
+          "introduced_commit": "c3081961743b38a734bad06833c0796b1daff71b",
+          "introduced_at": "2019-08-25T22:37:27+05:30",
+          "introduced_path": "images/2_no_clouds_8k.jpg",
+          "rename_commit": "d7cf9ac165dce806d695602a3f5fc043e534c048",
+          "rename_at": "2019-09-06T21:25:14+05:30",
+          "current_path": "images/earth/2_no_clouds_8k.jpg"
+        },
+        "chandrayaan3_origin": {
+          "introduced_commit": "c3081961743b38a734bad06833c0796b1daff71b",
+          "introduced_at": "2019-08-25T22:37:27+05:30"
+        },
+        "moon_mission_data": {
+          "import_commit": "5cbb8b41452df55e62e7364e4e44881d3b4abcd3",
+          "imported_at": "2026-03-23T15:31:23+05:30"
+        }
+      },
+      "upstream_matches": [
+        {
+          "url": "https://raw.githubusercontent.com/fury-gl/fury-data/master/textures/2_no_clouds_8k.jpg",
+          "sha256": "5cf740c72287af7b3accf080c3951944adcb1617083b918537d08cbd9f2c5465",
+          "verification": "exact-hash-match",
+          "note": "Mirror match; first fury-data commit for this path postdates moon-mission introduction."
+        }
+      ]
+    },
+    "images/earth/earthspec1k.jpg": {
+      "manifest_provenance": {
+        "status": "documented",
+        "source": "Traced in moon-mission/chandrayaan3-origin history (introduced in c308196, moved in d7cf9ac), then migrated to moon-mission-data in 5cbb8b4. SHA-256 matches jeromeetienne/threex.planets repository file."
+      },
+      "origin_trace": {
+        "moon_mission": {
+          "introduced_commit": "c3081961743b38a734bad06833c0796b1daff71b",
+          "introduced_at": "2019-08-25T22:37:27+05:30",
+          "introduced_path": "images/earthspec1k.jpg",
+          "rename_commit": "d7cf9ac165dce806d695602a3f5fc043e534c048",
+          "rename_at": "2019-09-06T21:25:14+05:30",
+          "current_path": "images/earth/earthspec1k.jpg"
+        },
+        "chandrayaan3_origin": {
+          "introduced_commit": "c3081961743b38a734bad06833c0796b1daff71b",
+          "introduced_at": "2019-08-25T22:37:27+05:30"
+        },
+        "moon_mission_data": {
+          "import_commit": "5cbb8b41452df55e62e7364e4e44881d3b4abcd3",
+          "imported_at": "2026-03-23T15:31:23+05:30"
+        }
+      },
+      "upstream_matches": [
+        {
+          "url": "https://raw.githubusercontent.com/jeromeetienne/threex.planets/master/images/earthspec1k.jpg",
+          "sha256": "e39b88d326862037f3efa2ab7c153fa93938bc14b762c4c92c6fa833354caec7",
+          "verification": "exact-hash-match"
+        },
+        {
+          "url": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/141228/earthspec1k.jpg",
+          "sha256": "e39b88d326862037f3efa2ab7c153fa93938bc14b762c4c92c6fa833354caec7",
+          "verification": "exact-hash-match"
+        }
+      ]
+    },
+    "images/moon/Solarsystemscope_texture_8k_moon.jpg": {
+      "manifest_provenance": {
+        "status": "documented",
+        "source": "Traced in moon-mission/chandrayaan3-origin history (introduced in e10db84 with Wikimedia noted in commit message), then migrated to moon-mission-data in 5cbb8b4. SHA-256 matches Wikimedia asset."
+      },
+      "origin_trace": {
+        "moon_mission": {
+          "introduced_commit": "e10db84f52868bd668d04756cdc9802140845d8b",
+          "introduced_at": "2023-08-20T17:48:13+05:30",
+          "current_path": "images/moon/Solarsystemscope_texture_8k_moon.jpg"
+        },
+        "chandrayaan3_origin": {
+          "introduced_commit": "e10db84f52868bd668d04756cdc9802140845d8b",
+          "introduced_at": "2023-08-20T17:48:13+05:30"
+        },
+        "moon_mission_data": {
+          "import_commit": "5cbb8b41452df55e62e7364e4e44881d3b4abcd3",
+          "imported_at": "2026-03-23T15:31:23+05:30"
+        }
+      },
+      "upstream_matches": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Solarsystemscope_texture_8k_moon.jpg",
+          "sha256": "d1875bcec83588ca25e4802e576f6bb9f88b39e1e403cb41ff55867419c54796",
+          "verification": "exact-hash-match"
+        }
+      ]
+    },
+    "images/moon/ldem_16_gsfc.png": {
+      "manifest_provenance": {
+        "status": "legacy-unverified",
+        "source": "Origin is traced to moon-mission/chandrayaan3-origin commit b4057fd and migration commit 5cbb8b4, but upstream acquisition source is not yet identified."
+      },
+      "origin_trace": {
+        "moon_mission": {
+          "introduced_commit": "b4057fde990135526e2ec9efda2aa4599949f4db",
+          "introduced_at": "2024-09-30T08:21:12+05:30",
+          "current_path": "images/moon/ldem_16_gsfc.png"
+        },
+        "chandrayaan3_origin": {
+          "introduced_commit": "b4057fde990135526e2ec9efda2aa4599949f4db",
+          "introduced_at": "2024-09-30T08:21:12+05:30"
+        },
+        "moon_mission_data": {
+          "import_commit": "5cbb8b41452df55e62e7364e4e44881d3b4abcd3",
+          "imported_at": "2026-03-23T15:31:23+05:30"
+        }
+      },
+      "upstream_matches": []
+    },
+    "images/sky/starmap_4k.jpg": {
+      "manifest_provenance": {
+        "status": "documented",
+        "source": "Traced in moon-mission/chandrayaan3-origin history (introduced in ae5892c), then migrated to moon-mission-data in 5cbb8b4. SHA-256 matches NASA SVS image asset."
+      },
+      "origin_trace": {
+        "moon_mission": {
+          "introduced_commit": "ae5892ca2c83e3d08fa733d19130d30aaf28ac3c",
+          "introduced_at": "2023-07-23T01:57:06+05:30",
+          "current_path": "images/sky/starmap_4k.jpg"
+        },
+        "chandrayaan3_origin": {
+          "introduced_commit": "ae5892ca2c83e3d08fa733d19130d30aaf28ac3c",
+          "introduced_at": "2023-07-23T01:57:06+05:30"
+        },
+        "moon_mission_data": {
+          "import_commit": "5cbb8b41452df55e62e7364e4e44881d3b4abcd3",
+          "imported_at": "2026-03-23T15:31:23+05:30"
+        }
+      },
+      "upstream_matches": [
+        {
+          "url": "https://svs.gsfc.nasa.gov/vis/a000000/a003800/a003895/starmap_4k.jpg",
+          "sha256": "0b33503895abebeb92fd89d3332e3ca62515b8cc458d243f208e4ca5d8c1452d",
+          "verification": "exact-hash-match"
+        }
+      ]
+    },
+    "images/sky/constellation_figures.jpg": {
+      "manifest_provenance": {
+        "status": "documented",
+        "source": "Traced in moon-mission/chandrayaan3-origin history (introduced in ae5892c), then migrated to moon-mission-data in 5cbb8b4. SHA-256 matches NASA SVS image asset."
+      },
+      "origin_trace": {
+        "moon_mission": {
+          "introduced_commit": "ae5892ca2c83e3d08fa733d19130d30aaf28ac3c",
+          "introduced_at": "2023-07-23T01:57:06+05:30",
+          "current_path": "images/sky/constellation_figures.jpg"
+        },
+        "chandrayaan3_origin": {
+          "introduced_commit": "ae5892ca2c83e3d08fa733d19130d30aaf28ac3c",
+          "introduced_at": "2023-07-23T01:57:06+05:30"
+        },
+        "moon_mission_data": {
+          "import_commit": "5cbb8b41452df55e62e7364e4e44881d3b4abcd3",
+          "imported_at": "2026-03-23T15:31:23+05:30"
+        }
+      },
+      "upstream_matches": [
+        {
+          "url": "https://svs.gsfc.nasa.gov/vis/a000000/a003800/a003895/constellation_figures.jpg",
+          "sha256": "24165cc330ac9d40146cdab85148e768c1d3b421ada89f44dc9447446856691e",
+          "verification": "exact-hash-match"
+        }
+      ]
+    }
+  }
+}
+
