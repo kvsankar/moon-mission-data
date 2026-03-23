@@ -91,8 +91,10 @@ def collect_required(app_root: Path) -> tuple[set[str], dict[str, str]]:
             if not isinstance(artifacts, dict):
                 continue
 
-            for key in ("npz", "chebyshev", "meta"):
-                artifact_cfg = artifacts.get(key, {})
+            runtime_artifact_keys = {"npz", "chebyshev", "meta", "sun_chebyshev"}
+            for key, artifact_cfg in artifacts.items():
+                if key not in runtime_artifact_keys:
+                    continue
                 if not isinstance(artifact_cfg, dict):
                     continue
                 runtime_name = artifact_cfg.get("runtime")
@@ -106,7 +108,7 @@ def collect_required(app_root: Path) -> tuple[set[str], dict[str, str]]:
                 if runtime_name.endswith("-cheb.json"):
                     gz_path = (Path("assets") / mission / "data" / f"{runtime_name}.gz").as_posix()
                     required.add(gz_path)
-                    reasons[gz_path] = f"manifest:{mission}:{phase}:chebyshev-gzip"
+                    reasons[gz_path] = f"manifest:{mission}:{phase}:{key}:gzip"
 
     # Relative mode assets are selected outside the manifest at runtime.
     for config_path in sorted(app_root.glob("assets/*/data/config.json")):
