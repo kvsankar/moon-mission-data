@@ -14,9 +14,33 @@ Runtime data/assets for `kvsankar/moon-mission` deployments.
 - Vendored runtime libraries under `third-party/`
 - Mission screenshots under `assets/*/images/`
 
-## Notes
+## Runtime-Only Policy
 
-- The app repository remains the source of platform code and mission configs.
-- CI workflows stage these runtime assets from this repository before tests/deploy.
-- Required orbit files are declared by mission manifests in the app repo:
-  `assets/*/data/ephemeris-manifest.json`.
+This repository is intentionally pruned to keep only files required by the current `moon-mission` runtime.
+
+- Source-of-truth for runtime requirements is the app repo (`../moon-mission`):
+  - Mission manifests: `assets/*/data/ephemeris-manifest.json`
+  - Relative-mode file conventions from mission `config.json`
+  - Shared texture references from platform `texture-loader.js`
+  - Third-party references from `mission.html` and platform imports
+- Unused tracked files should be removed.
+
+## Provenance and Audit
+
+- Provenance docs live under [`provenance/`](provenance/README.md).
+- Machine-readable audit manifest:
+  - `provenance/runtime-asset-manifest.json`
+- Generator script:
+  - `scripts/generate_runtime_asset_manifest.py`
+
+Regenerate:
+
+```bash
+python scripts/generate_runtime_asset_manifest.py --app-root ../moon-mission
+```
+
+Prune tracked files not required by runtime:
+
+```bash
+python scripts/generate_runtime_asset_manifest.py --app-root ../moon-mission --prune-unused
+```
