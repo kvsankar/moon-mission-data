@@ -1,9 +1,22 @@
 # Moon Mission Data
 
-Runtime NPZ ephemeris artifacts for `kvsankar/moon-mission` deployments.
+Runtime data/assets for `kvsankar/moon-mission` deployments.
+
+## Contents
+
+- Orbit runtime artifacts under `assets/*/data/`:
+  - `*.npz`
+  - `*-cheb.json`
+  - `*-cheb.json.gz`
+  - `*-meta.json`
+  - `ephemeris-manifest.json`
+- Shared render textures under `images/`
+- Vendored runtime libraries under `third-party/`
+- Mission screenshots under `assets/*/images/`
 
 ## Notes
 
-- This repository stores deploy-time `.npz` files consumed by CI workflows.
-- Source manifests are in the app repo under `assets/*/data/ephemeris-manifest.json`.
-- Deployment pipelines stage these files into `dist-pages/assets/*/data/` before publish.
+- The app repository remains the source of platform code and mission configs.
+- CI workflows stage these runtime assets from this repository before tests/deploy.
+- Required orbit files are declared by mission manifests in the app repo:
+  `assets/*/data/ephemeris-manifest.json`.
