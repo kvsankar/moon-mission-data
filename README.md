@@ -39,6 +39,12 @@ Regenerate:
 python scripts/generate_runtime_asset_manifest.py --app-root ../moon-mission
 ```
 
+Regenerate NASA 2020 sky textures (stars map + constellation figures):
+
+```bash
+python scripts/update_sky_textures_from_nasa.py --data-root .
+```
+
 Prune tracked files not required by runtime:
 
 ```bash

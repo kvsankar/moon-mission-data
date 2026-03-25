@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-23T12:35:00Z",
+  "generated_at_utc": "2026-03-25T03:21:12Z",
   "scope": "Shared runtime textures referenced by moon-mission platform texture-loader.",
   "entries": {
     "images/earth/2_no_clouds_8k.jpg": {
@@ -120,62 +120,45 @@
       },
       "upstream_matches": []
     },
-    "images/sky/starmap_4k.jpg": {
+    "images/sky/starmap_2020_4k_stars.jpg": {
       "manifest_provenance": {
         "status": "documented",
-        "source": "Traced in moon-mission/chandrayaan3-origin history (introduced in ae5892c), then migrated to moon-mission-data in 5cbb8b4. SHA-256 matches NASA SVS image asset."
+        "source": "Generated from NASA SVS 4851 starmap_2020_4k.exr using scripts/update_sky_textures_from_nasa.py (power=0.55, scale=0.68)."
       },
       "origin_trace": {
-        "moon_mission": {
-          "introduced_commit": "ae5892ca2c83e3d08fa733d19130d30aaf28ac3c",
-          "introduced_at": "2023-07-23T01:57:06+05:30",
-          "current_path": "images/sky/starmap_4k.jpg"
-        },
-        "chandrayaan3_origin": {
-          "introduced_commit": "ae5892ca2c83e3d08fa733d19130d30aaf28ac3c",
-          "introduced_at": "2023-07-23T01:57:06+05:30"
-        },
         "moon_mission_data": {
-          "import_commit": "5cbb8b41452df55e62e7364e4e44881d3b4abcd3",
-          "imported_at": "2026-03-23T15:31:23+05:30"
+          "generated_by": "scripts/update_sky_textures_from_nasa.py",
+          "generated_at": "2026-03-25T02:44:53Z",
+          "current_path": "images/sky/starmap_2020_4k_stars.jpg"
         }
       },
       "upstream_matches": [
         {
-          "url": "https://svs.gsfc.nasa.gov/vis/a000000/a003800/a003895/starmap_4k.jpg",
-          "sha256": "0b33503895abebeb92fd89d3332e3ca62515b8cc458d243f208e4ca5d8c1452d",
-          "verification": "exact-hash-match"
+          "url": "https://svs.gsfc.nasa.gov/vis/a000000/a004800/a004851/starmap_2020_4k.exr",
+          "sha256": "69b841cd048c2ef35543eb1c5819b322530e78aa4b0cab97ec1de3ef56a4ddcd",
+          "verification": "source-download-sha256"
         }
       ]
     },
-    "images/sky/constellation_figures.jpg": {
+    "images/sky/constellation_figures_2020_4k.jpg": {
       "manifest_provenance": {
         "status": "documented",
-        "source": "Traced in moon-mission/chandrayaan3-origin history (introduced in ae5892c), then migrated to moon-mission-data in 5cbb8b4. SHA-256 matches NASA SVS image asset."
+        "source": "Generated from NASA SVS 4851 constellation_figures_4k.tif using scripts/update_sky_textures_from_nasa.py."
       },
       "origin_trace": {
-        "moon_mission": {
-          "introduced_commit": "ae5892ca2c83e3d08fa733d19130d30aaf28ac3c",
-          "introduced_at": "2023-07-23T01:57:06+05:30",
-          "current_path": "images/sky/constellation_figures.jpg"
-        },
-        "chandrayaan3_origin": {
-          "introduced_commit": "ae5892ca2c83e3d08fa733d19130d30aaf28ac3c",
-          "introduced_at": "2023-07-23T01:57:06+05:30"
-        },
         "moon_mission_data": {
-          "import_commit": "5cbb8b41452df55e62e7364e4e44881d3b4abcd3",
-          "imported_at": "2026-03-23T15:31:23+05:30"
+          "generated_by": "scripts/update_sky_textures_from_nasa.py",
+          "generated_at": "2026-03-25T03:21:12Z",
+          "current_path": "images/sky/constellation_figures_2020_4k.jpg"
         }
       },
       "upstream_matches": [
         {
-          "url": "https://svs.gsfc.nasa.gov/vis/a000000/a003800/a003895/constellation_figures.jpg",
-          "sha256": "24165cc330ac9d40146cdab85148e768c1d3b421ada89f44dc9447446856691e",
-          "verification": "exact-hash-match"
+          "url": "https://svs.gsfc.nasa.gov/vis/a000000/a004800/a004851/constellation_figures_4k.tif",
+          "sha256": "18f705f5735f7e96764cc35734d1c4400300579a2b4c8d2bdc538f27424cff4d",
+          "verification": "source-download-sha256"
         }
       ]
     }
   }
 }
-
