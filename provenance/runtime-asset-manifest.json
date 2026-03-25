@@ -1,18 +1,18 @@
 {
-  "generated_at_utc": "2026-03-25T05:38:04.415211+00:00",
+  "generated_at_utc": "2026-03-25T15:38:13.244322+00:00",
   "app_repo": {
     "path": "C:/sankar/projects/moon-mission",
-    "git_commit": "ae9bc3d3ef4434702b6100037cd44af5d89f03cf",
+    "git_commit": "65a075b6bfee3891ecb10d8d6dbb609cf77b8a89",
     "git_branch": "master"
   },
   "data_repo": {
     "path": "C:/sankar/projects/moon-mission-data",
-    "git_commit": "4f8b40fcf68db0ae775b57feaa4efb60ff3253b1",
+    "git_commit": "1e4f461bb45f2e99adb68702d0f9e9382f58df43",
     "git_branch": "main"
   },
   "counts": {
-    "required_paths": 90,
-    "tracked_paths": 97,
+    "required_paths": 97,
+    "tracked_paths": 105,
     "missing_required": 0,
     "unused_tracked": 0
   },
@@ -180,8 +180,8 @@
       "category": "orbit-artifact",
       "reason": "relative-mode:apollo10-lm",
       "exists": true,
-      "size_bytes": 54469,
-      "sha256": "d9af394e0b110d80a79fefe53902bf3105098dec19faee3cccdc542a41edb8b2",
+      "size_bytes": 259288,
+      "sha256": "473ac6a70acdca739bed9d9ffcaefdc93815358f2fa3950c6992f414ff126551",
       "provenance": {
         "status": "documented",
         "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
@@ -192,8 +192,8 @@
       "category": "orbit-artifact",
       "reason": "relative-mode:apollo10-lm:gzip",
       "exists": true,
-      "size_bytes": 14681,
-      "sha256": "6f80f985203120bf85eebb32fe36382dd981ec11d77228a3006869a245a92659",
+      "size_bytes": 60621,
+      "sha256": "ad25ff8c3912a2da9896d19c6cd2275c8a0514293fa4e9184d63670d56332eae",
       "provenance": {
         "status": "documented",
         "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
@@ -360,8 +360,8 @@
       "category": "orbit-artifact",
       "reason": "relative-mode:apollo11-sivb",
       "exists": true,
-      "size_bytes": 108627,
-      "sha256": "b8358e2ed33803725e5ec5558d7ae8c21f0771f4f729b00d8513e01eda7e5817",
+      "size_bytes": 516161,
+      "sha256": "56a651df0428ee94370029ec4f6ac229b16ef4d526ace5cfbbc70b8fb64ed5ec",
       "provenance": {
         "status": "documented",
         "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
@@ -372,8 +372,8 @@
       "category": "orbit-artifact",
       "reason": "relative-mode:apollo11-sivb:gzip",
       "exists": true,
-      "size_bytes": 28171,
-      "sha256": "eb7f01d8c5c4c8bf3749b7efd1e31bd04aa0d6deaa4f0ac9e5bb66f936d5e8e4",
+      "size_bytes": 118616,
+      "sha256": "48bac00d024efdb7a13b4368e67fbc7a96a60120b6915119ec424ae2de1cc382",
       "provenance": {
         "status": "documented",
         "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
@@ -540,8 +540,8 @@
       "category": "orbit-artifact",
       "reason": "relative-mode:artemis1",
       "exists": true,
-      "size_bytes": 480296,
-      "sha256": "993be43d0e821b8005cb7e4636235779bb45df9eb26ffdf4e1e8a6e53b5d88d8",
+      "size_bytes": 2168335,
+      "sha256": "76a6f88436d5dce3756d52c44bae14155b50d9e27fa053f9c6f202728a1eaf78",
       "provenance": {
         "status": "documented",
         "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
@@ -552,8 +552,92 @@
       "category": "orbit-artifact",
       "reason": "relative-mode:artemis1:gzip",
       "exists": true,
-      "size_bytes": 123030,
-      "sha256": "bbf8ad10b86921954b688d21031f17fbc2963aafeb5c998e4d6ef6f18796f009",
+      "size_bytes": 491824,
+      "sha256": "1e9f7a041b3819fc3520faace4971ead10eb9ba2472f3c86fd86d0edae809ce0",
+      "provenance": {
+        "status": "documented",
+        "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
+      }
+    },
+    {
+      "path": "assets/chandrayaan1/data/ephemeris-manifest.json",
+      "category": "orbit-artifact",
+      "reason": "ephemeris-manifest",
+      "exists": true,
+      "size_bytes": 921,
+      "sha256": "c0caff9b22faf3ca00c3b9f5dc18e73fd8e363fcce6422a88105d7a0859877c2",
+      "provenance": {
+        "status": "documented",
+        "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
+      }
+    },
+    {
+      "path": "assets/chandrayaan1/data/geo-CH1-bodies-cheb.json",
+      "category": "orbit-artifact",
+      "reason": "manifest:chandrayaan1:geo:chebyshev",
+      "exists": true,
+      "size_bytes": 211130,
+      "sha256": "0098416d36dd5484f4f521099de6dcd8baa1900679c7ebbfb3d8b82f2bf41325",
+      "provenance": {
+        "status": "documented",
+        "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
+      }
+    },
+    {
+      "path": "assets/chandrayaan1/data/geo-CH1-bodies-cheb.json.gz",
+      "category": "orbit-artifact",
+      "reason": "manifest:chandrayaan1:geo:chebyshev:gzip",
+      "exists": true,
+      "size_bytes": 63781,
+      "sha256": "7b5eec490ad061370f0b8c9c931cead6b41770306c53f282f801535f43cc5e08",
+      "provenance": {
+        "status": "documented",
+        "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
+      }
+    },
+    {
+      "path": "assets/chandrayaan1/data/lunar-CH1-bodies-cheb.json",
+      "category": "orbit-artifact",
+      "reason": "manifest:chandrayaan1:lunar:chebyshev",
+      "exists": true,
+      "size_bytes": 207006,
+      "sha256": "099d6d0849f3f87dbe6fa2aaf7c4cd1bc20a8d25befd97bacd55db0f0a8620f8",
+      "provenance": {
+        "status": "documented",
+        "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
+      }
+    },
+    {
+      "path": "assets/chandrayaan1/data/lunar-CH1-bodies-cheb.json.gz",
+      "category": "orbit-artifact",
+      "reason": "manifest:chandrayaan1:lunar:chebyshev:gzip",
+      "exists": true,
+      "size_bytes": 62679,
+      "sha256": "5940448b2e0bd6e1fe967b394b39d27dc1b6089445bd54b126989b6bdb07c60d",
+      "provenance": {
+        "status": "documented",
+        "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
+      }
+    },
+    {
+      "path": "assets/chandrayaan1/data/relative-CH1-cheb.json",
+      "category": "orbit-artifact",
+      "reason": "relative-mode:chandrayaan1",
+      "exists": true,
+      "size_bytes": 2276401,
+      "sha256": "7a9df2fd3e4bd29f23a9bdd7971bcc9bcac3c1539b6d73aa011d45c4e3a18039",
+      "provenance": {
+        "status": "documented",
+        "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
+      }
+    },
+    {
+      "path": "assets/chandrayaan1/data/relative-CH1-cheb.json.gz",
+      "category": "orbit-artifact",
+      "reason": "relative-mode:chandrayaan1:gzip",
+      "exists": true,
+      "size_bytes": 536399,
+      "sha256": "99074df1d5da9c187204017e464652e69e56dee81debb38a2d67bc5f961fdfe8",
       "provenance": {
         "status": "documented",
         "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
@@ -720,8 +804,8 @@
       "category": "orbit-artifact",
       "reason": "relative-mode:chandrayaan2",
       "exists": true,
-      "size_bytes": 990599,
-      "sha256": "0df881352f227a5327aa755dd07d1f48a28785b78ef6efecf54dbd2c5b963a60",
+      "size_bytes": 4464104,
+      "sha256": "dc932c54bbe26977937c152c35374a774873bf7a269ab5645c80f0f319fdfa88",
       "provenance": {
         "status": "documented",
         "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
@@ -732,8 +816,8 @@
       "category": "orbit-artifact",
       "reason": "relative-mode:chandrayaan2:gzip",
       "exists": true,
-      "size_bytes": 267993,
-      "sha256": "20e86057af5c6893ea8ccdd2ac40f04fa1a5b7bf529e6a2e1bcdffc1451aabf7",
+      "size_bytes": 1044019,
+      "sha256": "78646a7db0df4ed3b09df67a80a8499303a9513677151486a0985b7c22bc3808",
       "provenance": {
         "status": "documented",
         "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
@@ -996,8 +1080,8 @@
       "category": "orbit-artifact",
       "reason": "relative-mode:chandrayaan3",
       "exists": true,
-      "size_bytes": 1001431,
-      "sha256": "94b264dfcce935579e3614aabb02218791941f57c21d7fe5cacda70d6a203555",
+      "size_bytes": 4482185,
+      "sha256": "4a3f82d1f92f2989588e984dfe3aa454ff375ab302b4f3ac2f2852ce49efef06",
       "provenance": {
         "status": "documented",
         "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
@@ -1008,8 +1092,8 @@
       "category": "orbit-artifact",
       "reason": "relative-mode:chandrayaan3:gzip",
       "exists": true,
-      "size_bytes": 268323,
-      "sha256": "df5309c993e8ef29b620207bf09257325a37538a4d51de10edde1407338fc481",
+      "size_bytes": 1046306,
+      "sha256": "059dd40a33a784cf87674d76ba3f62c83c3bd3d1177810216b1060e19b7cb0fa",
       "provenance": {
         "status": "documented",
         "source": "Generated from JPL HORIZONS exports via moon-mission scripts/orbits.py and scripts/compress-orbits.py"
