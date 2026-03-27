@@ -5,18 +5,21 @@
   "end_time": "2023-09-06 12:33",
   "planets": [
     "MOON",
-    "SC",
+    "CH3",
+    "C3V",
     "SUN"
   ],
   "phase": "geo",
   "center": "@399",
   "generated_by": "orbits.py",
-  "generated_at": "2026-03-23T12:57:20.431254",
+  "generated_at": "2026-03-27T13:38:13.838800",
   "python_config": {
     "start_time": "2023-07-14 09:23",
     "end_time": "2023-09-06 12:33"
   },
   "MOON_vectors_count": 77951,
-  "SC_vectors_count": 77951,
-  "SUN_vectors_count": 77951
+  "CH3_vectors_count": 77951,
+  "C3V_vectors_count": 77951,
+  "SUN_vectors_count": 77951,
+  "SC_vectors_count": 77951
 }

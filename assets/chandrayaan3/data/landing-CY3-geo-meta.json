@@ -4,15 +4,18 @@
   "start_time": "2023-08-23 12:15",
   "end_time": "2023-08-23 12:40",
   "planets": [
-    "SC"
+    "C3V",
+    "SUN"
   ],
   "phase": "landing-geo",
   "center": "@399",
   "generated_by": "orbits.py",
-  "generated_at": "2026-01-28T17:03:33.795424",
+  "generated_at": "2026-03-27T13:39:41.467609",
   "python_config": {
     "start_time": "2023-08-23 12:15",
     "end_time": "2023-08-23 12:40"
   },
+  "C3V_vectors_count": 1501,
+  "SUN_vectors_count": 1501,
   "SC_vectors_count": 1501
 }
