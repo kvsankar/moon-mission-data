@@ -1,0 +1,191 @@
+{
+  "format": "orbit-style",
+  "version": "1.0",
+  "phase": "geo",
+  "bodies": {
+    "CH3L": {
+      "default_tail_fraction": 0.5,
+      "default_head_fraction": 0.125,
+      "regime_intervals": [
+        {
+          "startTime": "2023-07-14T09:23:00Z",
+          "endTime": "2023-07-15T06:41:00Z",
+          "regime": "earth_orbit",
+          "centerCode": "@399",
+          "periodSecondsLocal": 38664
+        },
+        {
+          "startTime": "2023-07-15T06:41:00Z",
+          "endTime": "2023-07-17T02:15:00Z",
+          "regime": "earth_orbit",
+          "centerCode": "@399",
+          "periodSecondsLocal": 45004
+        },
+        {
+          "startTime": "2023-07-17T02:15:00Z",
+          "endTime": "2023-07-18T09:24:00Z",
+          "regime": "earth_orbit",
+          "centerCode": "@399",
+          "periodSecondsLocal": 44874
+        },
+        {
+          "startTime": "2023-07-18T09:24:00Z",
+          "endTime": "2023-07-20T09:16:00Z",
+          "regime": "earth_orbit",
+          "centerCode": "@399",
+          "periodSecondsLocal": 57481
+        },
+        {
+          "startTime": "2023-07-20T09:16:00Z",
+          "endTime": "2023-07-25T09:00:00Z",
+          "regime": "earth_orbit",
+          "centerCode": "@399",
+          "periodSecondsLocal": 86184
+        },
+        {
+          "startTime": "2023-07-25T09:00:00Z",
+          "endTime": "2023-07-31T18:43:00Z",
+          "regime": "earth_orbit",
+          "centerCode": "@399",
+          "periodSecondsLocal": 185490
+        },
+        {
+          "startTime": "2023-07-31T18:43:00Z",
+          "endTime": "2023-08-05T14:00:00Z",
+          "regime": "transfer",
+          "centerCode": "@399"
+        },
+        {
+          "startTime": "2023-08-05T14:00:00Z",
+          "endTime": "2023-08-06T17:49:00Z",
+          "regime": "moon_orbit",
+          "centerCode": "@301",
+          "periodSecondsLocal": 101506
+        },
+        {
+          "startTime": "2023-08-06T17:49:00Z",
+          "endTime": "2023-08-09T08:21:00Z",
+          "regime": "moon_orbit",
+          "centerCode": "@301",
+          "periodSecondsLocal": 22522
+        },
+        {
+          "startTime": "2023-08-09T08:21:00Z",
+          "endTime": "2023-08-14T06:38:00Z",
+          "regime": "moon_orbit",
+          "centerCode": "@301",
+          "periodSecondsLocal": 11506
+        },
+        {
+          "startTime": "2023-08-14T06:38:00Z",
+          "endTime": "2023-08-16T03:00:00Z",
+          "regime": "moon_orbit",
+          "centerCode": "@301",
+          "periodSecondsLocal": 7438
+        },
+        {
+          "startTime": "2023-08-16T03:00:00Z",
+          "endTime": "2023-08-17T07:45:00Z",
+          "regime": "moon_orbit",
+          "centerCode": "@301",
+          "periodSecondsLocal": 7404
+        },
+        {
+          "startTime": "2023-08-17T07:45:00Z",
+          "endTime": "2023-09-06T12:33:00Z",
+          "regime": "descent",
+          "centerCode": "@301"
+        }
+      ]
+    },
+    "CH3O": {
+      "default_tail_fraction": 0.5,
+      "default_head_fraction": 0.125,
+      "regime_intervals": [
+        {
+          "startTime": "2023-07-14T09:23:00Z",
+          "endTime": "2023-07-15T06:41:00Z",
+          "regime": "earth_orbit",
+          "centerCode": "@399",
+          "periodSecondsLocal": 38664
+        },
+        {
+          "startTime": "2023-07-15T06:41:00Z",
+          "endTime": "2023-07-17T02:15:00Z",
+          "regime": "earth_orbit",
+          "centerCode": "@399",
+          "periodSecondsLocal": 45004
+        },
+        {
+          "startTime": "2023-07-17T02:15:00Z",
+          "endTime": "2023-07-18T09:24:00Z",
+          "regime": "earth_orbit",
+          "centerCode": "@399",
+          "periodSecondsLocal": 44874
+        },
+        {
+          "startTime": "2023-07-18T09:24:00Z",
+          "endTime": "2023-07-20T09:16:00Z",
+          "regime": "earth_orbit",
+          "centerCode": "@399",
+          "periodSecondsLocal": 57481
+        },
+        {
+          "startTime": "2023-07-20T09:16:00Z",
+          "endTime": "2023-07-25T09:00:00Z",
+          "regime": "earth_orbit",
+          "centerCode": "@399",
+          "periodSecondsLocal": 86184
+        },
+        {
+          "startTime": "2023-07-25T09:00:00Z",
+          "endTime": "2023-07-31T18:43:00Z",
+          "regime": "earth_orbit",
+          "centerCode": "@399",
+          "periodSecondsLocal": 185490
+        },
+        {
+          "startTime": "2023-07-31T18:43:00Z",
+          "endTime": "2023-08-05T14:00:00Z",
+          "regime": "transfer",
+          "centerCode": "@399"
+        },
+        {
+          "startTime": "2023-08-05T14:00:00Z",
+          "endTime": "2023-08-06T17:49:00Z",
+          "regime": "moon_orbit",
+          "centerCode": "@301",
+          "periodSecondsLocal": 101506
+        },
+        {
+          "startTime": "2023-08-06T17:49:00Z",
+          "endTime": "2023-08-09T08:21:00Z",
+          "regime": "moon_orbit",
+          "centerCode": "@301",
+          "periodSecondsLocal": 22522
+        },
+        {
+          "startTime": "2023-08-09T08:21:00Z",
+          "endTime": "2023-08-14T06:38:00Z",
+          "regime": "moon_orbit",
+          "centerCode": "@301",
+          "periodSecondsLocal": 11506
+        },
+        {
+          "startTime": "2023-08-14T06:38:00Z",
+          "endTime": "2023-08-16T03:00:00Z",
+          "regime": "moon_orbit",
+          "centerCode": "@301",
+          "periodSecondsLocal": 7438
+        },
+        {
+          "startTime": "2023-08-16T03:00:00Z",
+          "endTime": "2023-09-06T12:33:00Z",
+          "regime": "moon_orbit",
+          "centerCode": "@301",
+          "periodSecondsLocal": 7404
+        }
+      ]
+    }
+  }
+}
