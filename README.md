@@ -9,6 +9,7 @@ Runtime data/assets for `kvsankar/moon-mission` deployments.
   - `*-cheb.json`
   - `*-cheb.json.gz`
   - `*-meta.json`
+  - `*-style.json`
   - `ephemeris-manifest.json`
 - Shared render textures under `images/`
 - Vendored runtime libraries under `third-party/`
@@ -20,7 +21,7 @@ This repository is intentionally pruned to keep only files required by the curre
 
 - Source-of-truth for runtime requirements is the app repo (`../moon-mission`):
   - Mission manifests: `assets/*/data/ephemeris-manifest.json`
-  - Relative-mode file conventions from mission `config.json`
+  - Relative-mode and orbit-style file conventions from mission `config.json`
   - Shared texture references from platform `texture-loader.js`
   - Third-party references from `mission.html` and platform imports
 - Unused tracked files should be removed.
