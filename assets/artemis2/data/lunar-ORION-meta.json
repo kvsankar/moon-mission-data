@@ -2,21 +2,22 @@
   "step_size_seconds": 60,
   "step_size_minutes": 1.0,
   "start_time": "2026-04-02 01:58",
-  "end_time": "2026-04-10 23:54",
+  "end_time": "2026-04-11 00:08",
   "planets": [
     "SC",
     "EARTH",
     "SUN"
   ],
   "phase": "lunar",
-  "center": "@301",
-  "generated_by": "orbits.py",
-  "generated_at": "2026-04-11T01:11:05.705281",
+  "center": "moon_center",
+  "generated_by": "extend-post-horizons-trajectory.py",
+  "generated_at": "2026-04-10T23:23:04.051325+00:00",
   "python_config": {
     "start_time": "2026-04-02 01:58",
-    "end_time": "2026-04-10 23:54"
+    "end_time": "2026-04-11 00:08"
   },
-  "SC_vectors_count": 12836,
-  "EARTH_vectors_count": 12836,
-  "SUN_vectors_count": 12836
+  "modeling_note": "Derived from extended geo data for frame consistency through splashdown.",
+  "SC_vectors_count": 12851,
+  "EARTH_vectors_count": 12851,
+  "SUN_vectors_count": 12851
 }
