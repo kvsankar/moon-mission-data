@@ -1,0 +1,2 @@
+assets/selene/data/relative-SEL.npz filter=lfs diff=lfs merge=lfs -text
+assets/smart1/data/relative-SM1.npz filter=lfs diff=lfs merge=lfs -text
