@@ -1,0 +1,3434 @@
+{
+  "generatedAt": "2026-05-09T12:57:01.063Z",
+  "records": [
+    {
+      "kind": "audioClip",
+      "id": "audio-waveform",
+      "output": "assets/artemis2/media/thumbnails/audio/waveform.svg",
+      "status": "skipped"
+    },
+    {
+      "id": "55181691437_9b91f6bdbf_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55181691437_9b91f6bdbf_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55181691437_9b91f6bdbf_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55181712417_3daccb4ba9_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55181712417_3daccb4ba9_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55181712417_3daccb4ba9_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55181733197_6684b451f0_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55181733197_6684b451f0_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55181733197_6684b451f0_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55181746722-0c6113480d-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55181746722-0c6113480d-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55181746722-0c6113480d-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55181836272_bebca28238_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55181836272_bebca28238_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55181836272_bebca28238_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55182336933_795d160b66_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55182336933_795d160b66_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55182336933_795d160b66_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55182399029_cce4f42b2d_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55182399029_cce4f42b2d_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55182399029_cce4f42b2d_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55182417729_3e6cb18922_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55182417729_3e6cb18922_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55182417729_3e6cb18922_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55182419584-b48c29ea4d-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55182419584-b48c29ea4d-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55182419584-b48c29ea4d-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55182420389_2f8485971f_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55182420389_2f8485971f_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55182420389_2f8485971f_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55182525528_3c55ff32d8_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55182525528_3c55ff32d8_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55182525528_3c55ff32d8_o.webp",
+      "status": "written"
+    },
+    {
+      "id": "55182564820_126108d6d4_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55182564820_126108d6d4_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55182564820_126108d6d4_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55182566490-bf9f59635c-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55182566490-bf9f59635c-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55182566490-bf9f59635c-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55182566975-062618c0a9-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55182566975-062618c0a9-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55182566975-062618c0a9-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55182696113-0c4398702d-o-2.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55182696113-0c4398702d-o-2.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55182696113-0c4398702d-o-2.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55182788563_2a32202fbf_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55182788563_2a32202fbf_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55182788563_2a32202fbf_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55182789108-f13e3eb9ec-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55182789108-f13e3eb9ec-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55182789108-f13e3eb9ec-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55182858034_036b200e46_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55182858034_036b200e46_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55182858034_036b200e46_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55182911249_2705824375_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55182911249_2705824375_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55182911249_2705824375_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55182918876_b7de1752f8_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55182918876_b7de1752f8_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55182918876_b7de1752f8_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55183079963-98d70178ff-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55183079963-98d70178ff-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55183079963-98d70178ff-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55183089523-2832f9419d-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55183089523-2832f9419d-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55183089523-2832f9419d-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55183122230_c572b07a81_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55183122230_c572b07a81_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55183122230_c572b07a81_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55183849497_1d2208a7d2_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55183849497_1d2208a7d2_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55183849497_1d2208a7d2_o.webp",
+      "status": "written"
+    },
+    {
+      "id": "55184537894_f616b0793e_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55184537894_f616b0793e_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55184537894_f616b0793e_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55184539204_f0d6690e0a_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55184539204_f0d6690e0a_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55184539204_f0d6690e0a_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55184586022_5fcdc8cc94_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55184586022_5fcdc8cc94_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55184586022_5fcdc8cc94_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55184731952_c2bde0bcc6_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55184731952_c2bde0bcc6_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55184731952_c2bde0bcc6_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55184740196_9b3e418443_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55184740196_9b3e418443_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55184740196_9b3e418443_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55184745301_e224d74e3a_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55184745301_e224d74e3a_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55184745301_e224d74e3a_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55185003259_242809884c_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55185003259_242809884c_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55185003259_242809884c_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55185144555_4ecdcc2611_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55185144555_4ecdcc2611_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55185144555_4ecdcc2611_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55185622941_3e571fdc44_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55185622941_3e571fdc44_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55185622941_3e571fdc44_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55185633398_0374c915ce_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55185633398_0374c915ce_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55185633398_0374c915ce_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55186154951_6208feeb42_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55186154951_6208feeb42_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55186154951_6208feeb42_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55186319833_165b4b7852_3k.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55186319833_165b4b7852_3k.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55186319833_165b4b7852_3k.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55186418959_a8d7bd9d97_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55186418959_a8d7bd9d97_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55186418959_a8d7bd9d97_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55186454418_1410110fe9_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55186454418_1410110fe9_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55186454418_1410110fe9_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55186615484_510014958c_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55186615484_510014958c_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55186615484_510014958c_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55186770575_d987f9c852_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55186770575_d987f9c852_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55186770575_d987f9c852_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55186902076_0f58231a29_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55186902076_0f58231a29_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55186902076_0f58231a29_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55186933788_b4a8045c8e_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55186933788_b4a8045c8e_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55186933788_b4a8045c8e_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55187055368_7ab1e4c6a4_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55187055368_7ab1e4c6a4_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55187055368_7ab1e4c6a4_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55187172560_359bfaccb9_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55187172560_359bfaccb9_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55187172560_359bfaccb9_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55187189317_52ff04bc9a_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55187189317_52ff04bc9a_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55187189317_52ff04bc9a_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55187293546_43c21e2ef2_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55187293546_43c21e2ef2_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55187293546_43c21e2ef2_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55187298155_0f0187a6de_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55187298155_0f0187a6de_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55187298155_0f0187a6de_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55187348577_9a3666de4f_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55187348577_9a3666de4f_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55187348577_9a3666de4f_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55187684915_d91051b281_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55187684915_d91051b281_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55187684915_d91051b281_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55188864542_695985d1a6_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55188864542_695985d1a6_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55188864542_695985d1a6_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55189594357_55ef58f817_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55189594357_55ef58f817_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55189594357_55ef58f817_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55189687036_7504c9280d_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55189687036_7504c9280d_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55189687036_7504c9280d_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55189767696_27cf3376e4_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55189767696_27cf3376e4_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55189767696_27cf3376e4_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55189799111_138617a557_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55189799111_138617a557_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55189799111_138617a557_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55190036409_b8751c9d86_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55190036409_b8751c9d86_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55190036409_b8751c9d86_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55190158269_06db61345b_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55190158269_06db61345b_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55190158269_06db61345b_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55190200376_9170407d93_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55190200376_9170407d93_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55190200376_9170407d93_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55190298147_d6a1a8bb31_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55190298147_d6a1a8bb31_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55190298147_d6a1a8bb31_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55190303117_0330a107be_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55190303117_0330a107be_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55190303117_0330a107be_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55190613700_1beec64e98_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55190613700_1beec64e98_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55190613700_1beec64e98_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55191180896_93318c9e5e_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55191180896_93318c9e5e_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55191180896_93318c9e5e_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55191185696_f8cd3e9788_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55191185696_f8cd3e9788_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55191185696_f8cd3e9788_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55191331293_bb63acba64_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55191331293_bb63acba64_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55191331293_bb63acba64_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55191439024_9460827fd4_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55191439024_9460827fd4_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55191439024_9460827fd4_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55191470911_ed6d17c2be_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55191470911_ed6d17c2be_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55191470911_ed6d17c2be_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55191585995_ce02dc566d_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55191585995_ce02dc566d_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55191585995_ce02dc566d_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55192084847_0b9940c4b9_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55192084847_0b9940c4b9_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55192084847_0b9940c4b9_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55192123432_66aed38dd0_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55192123432_66aed38dd0_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55192123432_66aed38dd0_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55192132107_00dc598014_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55192132107_00dc598014_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55192132107_00dc598014_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55192164982_b14b7d4a20_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55192164982_b14b7d4a20_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55192164982_b14b7d4a20_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55192173787_b8322b1190_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55192173787_b8322b1190_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55192173787_b8322b1190_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55192657082_f72aa9aacb_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55192657082_f72aa9aacb_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55192657082_f72aa9aacb_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55192683067_668f78b20c_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55192683067_668f78b20c_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55192683067_668f78b20c_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193002296_dc7f150992_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193002296_dc7f150992_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193002296_dc7f150992_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193049251_43a64bf74d_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193049251_43a64bf74d_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193049251_43a64bf74d_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193053886_9071f0a61e_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193053886_9071f0a61e_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193053886_9071f0a61e_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193054686_6ed51f4f15_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193054686_6ed51f4f15_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193054686_6ed51f4f15_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193054741_03c94834b0_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193054741_03c94834b0_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193054741_03c94834b0_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193069001_940360cfdb_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193069001_940360cfdb_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193069001_940360cfdb_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193071311_0170f32df8_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193071311_0170f32df8_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193071311_0170f32df8_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193137293_3b37051840_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193137293_3b37051840_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193137293_3b37051840_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193149063_81719d37c8_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193149063_81719d37c8_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193149063_81719d37c8_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193178333_e4a5a133ed_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193178333_e4a5a133ed_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193178333_e4a5a133ed_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193180468_5de0cf977a_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193180468_5de0cf977a_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193180468_5de0cf977a_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193194643_0c9eac774f_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193194643_0c9eac774f_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193194643_0c9eac774f_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193206753_03e267f92b_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193206753_03e267f92b_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193206753_03e267f92b_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193207303_dd68355a57_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193207303_dd68355a57_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193207303_dd68355a57_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193207308_5031aaa6c0_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193207308_5031aaa6c0_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193207308_5031aaa6c0_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193337359_950011bf2d_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193337359_950011bf2d_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193337359_950011bf2d_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193360877_04bff6ed5a_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193360877_04bff6ed5a_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193360877_04bff6ed5a_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193368072_2d78e28314_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193368072_2d78e28314_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193368072_2d78e28314_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193414680_6b40b7bc89_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193414680_6b40b7bc89_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193414680_6b40b7bc89_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193462360_e4366d4b48_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193462360_e4366d4b48_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193462360_e4366d4b48_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193566011_0087fe82c1_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193566011_0087fe82c1_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193566011_0087fe82c1_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193772547_d9e3b1d0e8_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193772547_d9e3b1d0e8_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193772547_d9e3b1d0e8_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193772552_b8cfb47b7e_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193772552_b8cfb47b7e_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193772552_b8cfb47b7e_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193784989_3b532023c0_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193784989_3b532023c0_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193784989_3b532023c0_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193828029_dca505dae8_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193828029_dca505dae8_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193828029_dca505dae8_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55193946135_2664677690_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55193946135_2664677690_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55193946135_2664677690_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194334756_16d84a9ace_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194334756_16d84a9ace_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194334756_16d84a9ace_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194361976_92f5a33949_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194361976_92f5a33949_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194361976_92f5a33949_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194365312_b62c206001_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194365312_b62c206001_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194365312_b62c206001_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194399918_813cc7ef06_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194399918_813cc7ef06_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194399918_813cc7ef06_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194459003_3bae619a73_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194459003_3bae619a73_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194459003_3bae619a73_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194494274_e401f02494_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194494274_e401f02494_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194494274_e401f02494_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194517308_b152775e40_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194517308_b152775e40_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194517308_b152775e40_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194523579_bf4efc3d44_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194523579_bf4efc3d44_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194523579_bf4efc3d44_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194529188_d90aa501b6_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194529188_d90aa501b6_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194529188_d90aa501b6_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194598974_0173dc947b_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194598974_0173dc947b_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194598974_0173dc947b_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194619544_73f74ae5d0_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194619544_73f74ae5d0_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194619544_73f74ae5d0_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194627304_c3cb06ab2f_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194627304_c3cb06ab2f_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194627304_c3cb06ab2f_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194627309_3957207b4b_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194627309_3957207b4b_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194627309_3957207b4b_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194639639_2f9b1e8be0_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194639639_2f9b1e8be0_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194639639_2f9b1e8be0_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194658516_0007ed5ba5_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194658516_0007ed5ba5_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194658516_0007ed5ba5_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194659885_32f13f28a3_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194659885_32f13f28a3_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194659885_32f13f28a3_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194733465_29355a7bca_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194733465_29355a7bca_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194733465_29355a7bca_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194762480_75e13bca20_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194762480_75e13bca20_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194762480_75e13bca20_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194768276_c87d2884e2_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194768276_c87d2884e2_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194768276_c87d2884e2_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194789840_d7cf899d17_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194789840_d7cf899d17_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194789840_d7cf899d17_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194789845_74d1e2da75_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194789845_74d1e2da75_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194789845_74d1e2da75_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194917013_732620c66e_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194917013_732620c66e_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194917013_732620c66e_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194920222_e6114d3da6_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194920222_e6114d3da6_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194920222_e6114d3da6_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55194920227_1ced7587f1_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55194920227_1ced7587f1_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55194920227_1ced7587f1_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55195026049_90a254f6a3_o (1).jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55195026049_90a254f6a3_o%20(1).jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55195026049_90a254f6a3_o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55195066435_9f77676d65_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55195066435_9f77676d65_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55195066435_9f77676d65_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55195410937_bbbe00800f_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55195410937_bbbe00800f_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55195410937_bbbe00800f_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55195413602_c4306fea38_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55195413602_c4306fea38_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55195413602_c4306fea38_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55195674427_a68aba74ca_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55195674427_a68aba74ca_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55195674427_a68aba74ca_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55195796542_759a8b698a_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55195796542_759a8b698a_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55195796542_759a8b698a_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55195796552_a8d5bffdc8_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55195796552_a8d5bffdc8_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55195796552_a8d5bffdc8_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55195894708_a9a94dba10_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55195894708_a9a94dba10_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55195894708_a9a94dba10_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55195952067_f58158e8ab_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55195952067_f58158e8ab_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55195952067_f58158e8ab_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55195952087_cdbd0422a9_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55195952087_cdbd0422a9_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55195952087_cdbd0422a9_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55195961058_8ac0d8b4af_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55195961058_8ac0d8b4af_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55195961058_8ac0d8b4af_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196010752_5b3201ef0d_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196010752_5b3201ef0d_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196010752_5b3201ef0d_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196075694_3e4b1a789d_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196075694_3e4b1a789d_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196075694_3e4b1a789d_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196252006_59544763b0_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196252006_59544763b0_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196252006_59544763b0_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196404298_f9af1764ea_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196404298_f9af1764ea_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196404298_f9af1764ea_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196453768_35ac350f09_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196453768_35ac350f09_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196453768_35ac350f09_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196507489_63cc22c484_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196507489_63cc22c484_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196507489_63cc22c484_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196534939_e4bc5a438e_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196534939_e4bc5a438e_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196534939_e4bc5a438e_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196543334_5797e7293a_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196543334_5797e7293a_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196543334_5797e7293a_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196663265_ef59978360_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196663265_ef59978360_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196663265_ef59978360_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196698385_b79957418c_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196698385_b79957418c_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196698385_b79957418c_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196704886_deccb80f7a_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196704886_deccb80f7a_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196704886_deccb80f7a_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196710272_1289069236_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196710272_1289069236_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196710272_1289069236_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196918247_ce5d00edbe_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196918247_ce5d00edbe_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196918247_ce5d00edbe_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196921082_58347f5449_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196921082_58347f5449_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196921082_58347f5449_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196937384_4d99b6bf96_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196937384_4d99b6bf96_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196937384_4d99b6bf96_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55196961359_8ed5e86af3_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55196961359_8ed5e86af3_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55196961359_8ed5e86af3_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55197007576_c061c21cdb_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55197007576_c061c21cdb_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55197007576_c061c21cdb_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55197019103_990dff0021_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55197019103_990dff0021_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55197019103_990dff0021_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55197095240_3d7a1b7391_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55197095240_3d7a1b7391_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55197095240_3d7a1b7391_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55197095290_da7fb6ece3_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55197095290_da7fb6ece3_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55197095290_da7fb6ece3_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55197162528_0c6a732d79_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55197162528_0c6a732d79_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55197162528_0c6a732d79_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55197506830_a07d2d54ba_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55197506830_a07d2d54ba_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55197506830_a07d2d54ba_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55197552725_311cf42abf_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55197552725_311cf42abf_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55197552725_311cf42abf_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55197737178_9b35dbcb12_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55197737178_9b35dbcb12_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55197737178_9b35dbcb12_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55197806006_51d6c66a41_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55197806006_51d6c66a41_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55197806006_51d6c66a41_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55197995935_c2a38d06b9_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55197995935_c2a38d06b9_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55197995935_c2a38d06b9_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55198256277_137a632358_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55198256277_137a632358_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55198256277_137a632358_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55198362617_946e74e391_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55198362617_946e74e391_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55198362617_946e74e391_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55198598917_7ab5bc48c9_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55198598917_7ab5bc48c9_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55198598917_7ab5bc48c9_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55198608122_db1a277281_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55198608122_db1a277281_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55198608122_db1a277281_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55198634897_1719724db5_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55198634897_1719724db5_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55198634897_1719724db5_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55198687567_68fd1bd7e7_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55198687567_68fd1bd7e7_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55198687567_68fd1bd7e7_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55198865542_f8f931cfc1_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55198865542_f8f931cfc1_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55198865542_f8f931cfc1_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55198907367-be08b9ca9d-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55198907367-be08b9ca9d-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55198907367-be08b9ca9d-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55198951957-0f8ed6527b-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55198951957-0f8ed6527b-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55198951957-0f8ed6527b-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55198952237-ba1b02a8eb-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55198952237-ba1b02a8eb-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55198952237-ba1b02a8eb-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55198960402-0abbb32ff4-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55198960402-0abbb32ff4-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55198960402-0abbb32ff4-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199141754_7ff4708cb4_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199141754_7ff4708cb4_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199141754_7ff4708cb4_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199224857_9c4f8b957d_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199224857_9c4f8b957d_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199224857_9c4f8b957d_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199225947_c8037c6ef6_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199225947_c8037c6ef6_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199225947_c8037c6ef6_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199243981_8577454010_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199243981_8577454010_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199243981_8577454010_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199312161_f84ab3fd2e_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199312161_f84ab3fd2e_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199312161_f84ab3fd2e_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199318256_1f738a83ba_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199318256_1f738a83ba_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199318256_1f738a83ba_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199324306-ac28f4dddd-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199324306-ac28f4dddd-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199324306-ac28f4dddd-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199404085_fdf82b3e68_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199404085_fdf82b3e68_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199404085_fdf82b3e68_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199431156_eb43ddc6be_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199431156_eb43ddc6be_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199431156_eb43ddc6be_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199492814_a53ed1ea82_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199492814_a53ed1ea82_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199492814_a53ed1ea82_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199492819_2388a0954b_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199492819_2388a0954b_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199492819_2388a0954b_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199507598-efe3d0a725-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199507598-efe3d0a725-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199507598-efe3d0a725-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199520466-34d138dc13-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199520466-34d138dc13-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199520466-34d138dc13-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199526571-c49720e4ba-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199526571-c49720e4ba-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199526571-c49720e4ba-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199558901-750598e081-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199558901-750598e081-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199558901-750598e081-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199636042_1cc0781960_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199636042_1cc0781960_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199636042_1cc0781960_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199649540_122da08a21_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199649540_122da08a21_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199649540_122da08a21_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199650003_5df2686dc1_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199650003_5df2686dc1_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199650003_5df2686dc1_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199685771-a20de6ebf3-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199685771-a20de6ebf3-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199685771-a20de6ebf3-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199695136-23fb9ed419-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199695136-23fb9ed419-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199695136-23fb9ed419-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199695466-e0a2e1c3cc-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199695466-e0a2e1c3cc-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199695466-e0a2e1c3cc-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199709323-8fe6819300-o-1.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199709323-8fe6819300-o-1.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199709323-8fe6819300-o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199774765_6e77d97b51_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199774765_6e77d97b51_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199774765_6e77d97b51_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199775909_7a8444dc2d_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199775909_7a8444dc2d_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199775909_7a8444dc2d_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199789389_8449869349_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199789389_8449869349_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199789389_8449869349_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199812540_b8facc0701_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199812540_b8facc0701_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199812540_b8facc0701_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199853946-2f65c26928-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199853946-2f65c26928-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199853946-2f65c26928-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199854926-a16b9b3e77-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199854926-a16b9b3e77-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199854926-a16b9b3e77-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199857746-07908c9d65-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199857746-07908c9d65-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199857746-07908c9d65-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199878669-257ddff58b-o-1.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199878669-257ddff58b-o-1.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199878669-257ddff58b-o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199878864-41ff4d23f4-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199878864-41ff4d23f4-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199878864-41ff4d23f4-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199935584-7cd41d3d4a-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199935584-7cd41d3d4a-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199935584-7cd41d3d4a-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199953168-d2742b8861-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199953168-d2742b8861-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199953168-d2742b8861-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199984595_1727ddf745_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199984595_1727ddf745_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199984595_1727ddf745_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199996653-9e384a8235-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199996653-9e384a8235-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199996653-9e384a8235-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199997948-73cd027a44-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199997948-73cd027a44-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199997948-73cd027a44-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199998298-845d964fd0-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199998298-845d964fd0-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199998298-845d964fd0-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55199999093-35f97d59f4-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55199999093-35f97d59f4-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55199999093-35f97d59f4-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200000228-2210704fdd-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200000228-2210704fdd-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200000228-2210704fdd-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200002168-7f1077cdf3-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200002168-7f1077cdf3-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200002168-7f1077cdf3-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200004673-5ffb431c22-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200004673-5ffb431c22-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200004673-5ffb431c22-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200008149-09a5f1fc33-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200008149-09a5f1fc33-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200008149-09a5f1fc33-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200049934-d149f06d5a-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200049934-d149f06d5a-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200049934-d149f06d5a-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200077344_5014935964_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200077344_5014935964_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200077344_5014935964_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200091055-901e263aa4-o-1.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200091055-901e263aa4-o-1.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200091055-901e263aa4-o-1.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200096939-71021a8429-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200096939-71021a8429-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200096939-71021a8429-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200099409-ca39242549-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200099409-ca39242549-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200099409-ca39242549-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200101349-5474a342f9-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200101349-5474a342f9-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200101349-5474a342f9-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200103109-b50ff40360-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200103109-b50ff40360-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200103109-b50ff40360-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200118501_982d3436a6_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200118501_982d3436a6_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200118501_982d3436a6_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200122336_6ec4eafa17_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200122336_6ec4eafa17_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200122336_6ec4eafa17_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200122669_2460f5a46b_o~large.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200122669_2460f5a46b_o~large.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200122669_2460f5a46b_o-large.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200123351_35b41c97b4_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200123351_35b41c97b4_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200123351_35b41c97b4_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200125776_b1dc50dabb_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200125776_b1dc50dabb_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200125776_b1dc50dabb_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200126486_082edd2c14_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200126486_082edd2c14_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200126486_082edd2c14_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200126804_a4f57d8174_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200126804_a4f57d8174_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200126804_a4f57d8174_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200207020-dcf603c8cf-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200207020-dcf603c8cf-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200207020-dcf603c8cf-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200207390-ab1f43b8b8-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200207390-ab1f43b8b8-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200207390-ab1f43b8b8-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200255400-1f787b68e3-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200255400-1f787b68e3-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200255400-1f787b68e3-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200256115-8e4a2a3c19-o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200256115-8e4a2a3c19-o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200256115-8e4a2a3c19-o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200289498_1b7341ddf8_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200289498_1b7341ddf8_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200289498_1b7341ddf8_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200304123_cbfd44c26b_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200304123_cbfd44c26b_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200304123_cbfd44c26b_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200369004_64c96923e1_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200369004_64c96923e1_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200369004_64c96923e1_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200377684_b495185125_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200377684_b495185125_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200377684_b495185125_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200530422_383420cb6c_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200530422_383420cb6c_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200530422_383420cb6c_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200548925_8913c7c5bd_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200548925_8913c7c5bd_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200548925_8913c7c5bd_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200550355_700921002c_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200550355_700921002c_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200550355_700921002c_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200638441_f815aa148a_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200638441_f815aa148a_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200638441_f815aa148a_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200659842_0730167a5b_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200659842_0730167a5b_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200659842_0730167a5b_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200794328_0c8a64f49d_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200794328_0c8a64f49d_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200794328_0c8a64f49d_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200884574_d1661204b7_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200884574_d1661204b7_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200884574_d1661204b7_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55200885704_19fc523ba0_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55200885704_19fc523ba0_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55200885704_19fc523ba0_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201044335_c619efe374_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201044335_c619efe374_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201044335_c619efe374_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201048580_ba5d633330_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201048580_ba5d633330_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201048580_ba5d633330_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201073550_f6a8cd338e_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201073550_f6a8cd338e_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201073550_f6a8cd338e_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201409941_743264a963_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201409941_743264a963_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201409941_743264a963_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201409946_7ff7864eef_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201409946_7ff7864eef_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201409946_7ff7864eef_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201410186_78fbc1e3d0_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201410186_78fbc1e3d0_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201410186_78fbc1e3d0_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201423841_3727623526_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201423841_3727623526_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201423841_3727623526_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201424021_282d63f7af_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201424021_282d63f7af_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201424021_282d63f7af_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201424106_98aa64778f_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201424106_98aa64778f_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201424106_98aa64778f_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201424136_87b2702a88_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201424136_87b2702a88_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201424136_87b2702a88_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201553321_4c470fe44a_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201553321_4c470fe44a_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201553321_4c470fe44a_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201553518_2b828d9b20_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201553518_2b828d9b20_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201553518_2b828d9b20_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201562128_8162605d3a_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201562128_8162605d3a_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201562128_8162605d3a_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201562253_163bb4ccd4_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201562253_163bb4ccd4_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201562253_163bb4ccd4_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201576368_eb58dd6430_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201576368_eb58dd6430_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201576368_eb58dd6430_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201576423_da7c6da6be_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201576423_da7c6da6be_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201576423_da7c6da6be_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201576443_c26131ec35_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201576443_c26131ec35_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201576443_c26131ec35_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201661154_12a741d752_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201661154_12a741d752_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201661154_12a741d752_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201661244_ac6e689903_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201661244_ac6e689903_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201661244_ac6e689903_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201661254_440279afc1_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201661254_440279afc1_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201661254_440279afc1_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201661369_d473eacbfc_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201661369_d473eacbfc_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201661369_d473eacbfc_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201675544_799f745939_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201675544_799f745939_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201675544_799f745939_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201805059_e1de29736d_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201805059_e1de29736d_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201805059_e1de29736d_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201805415_0a912b8951_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201805415_0a912b8951_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201805415_0a912b8951_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201813500_ec82522436_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201813500_ec82522436_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201813500_ec82522436_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201813860_9e0777e100_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201813860_9e0777e100_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201813860_9e0777e100_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55201827775_7fd56ee4d4_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55201827775_7fd56ee4d4_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55201827775_7fd56ee4d4_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55203585621_dd83321d3a_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55203585621_dd83321d3a_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55203585621_dd83321d3a_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55203586701_f1cebf0806_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55203586701_f1cebf0806_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55203586701_f1cebf0806_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55203592291_d9152c84d2_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55203592291_d9152c84d2_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55203592291_d9152c84d2_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55203734853_9dee3ee07f_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55203734853_9dee3ee07f_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55203734853_9dee3ee07f_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55203738393_5a8d2e9fd5_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55203738393_5a8d2e9fd5_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55203738393_5a8d2e9fd5_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55203833379_67bcbac2cb_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55203833379_67bcbac2cb_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55203833379_67bcbac2cb_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55203981890_f5baaa5ed8_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55203981890_f5baaa5ed8_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55203981890_f5baaa5ed8_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55204753657_ff68ec545e_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55204753657_ff68ec545e_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55204753657_ff68ec545e_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55206257809_038fccebae_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55206257809_038fccebae_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55206257809_038fccebae_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55206394005_d4b2519114_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55206394005_d4b2519114_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55206394005_d4b2519114_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55206722770_42a2c42b7f_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55206722770_42a2c42b7f_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55206722770_42a2c42b7f_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55207655441_f719675805_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55207655441_f719675805_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55207655441_f719675805_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55207787628_774eb096db_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55207787628_774eb096db_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55207787628_774eb096db_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55207839868_ece0677074_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55207839868_ece0677074_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55207839868_ece0677074_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55207851286_830ee84047_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55207851286_830ee84047_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55207851286_830ee84047_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55207935871_acaeaa8692_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55207935871_acaeaa8692_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55207935871_acaeaa8692_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55208327975_1d1e5aa651_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55208327975_1d1e5aa651_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55208327975_1d1e5aa651_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55208397810_fb0fc24872_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55208397810_fb0fc24872_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55208397810_fb0fc24872_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55208655682_9b9025ca38_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55208655682_9b9025ca38_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55208655682_9b9025ca38_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55208682757_882e4ffd5c_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55208682757_882e4ffd5c_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55208682757_882e4ffd5c_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55209951780_e9ca7664b6_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55209951780_e9ca7664b6_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55209951780_e9ca7664b6_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55223125677_15f211fb84_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55223125677_15f211fb84_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55223125677_15f211fb84_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55224193193_4d929dc577_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55224193193_4d929dc577_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55224193193_4d929dc577_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55224434205_228b6d3cee_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55224434205_228b6d3cee_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55224434205_228b6d3cee_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55224434210_fd1da0b67f_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55224434210_fd1da0b67f_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55224434210_fd1da0b67f_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "55224434240_a7078727ff_o.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/55224434240_a7078727ff_o.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/55224434240_a7078727ff_o.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608622.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608622.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608622.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608623.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608623.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608623.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608624.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608624.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608624.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608625.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608625.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608625.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608626.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608626.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608626.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608627.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608627.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608627.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608628.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608628.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608628.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608629.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608629.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608629.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608630.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608630.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608630.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608631.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608631.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608631.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608632.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608632.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608632.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608633.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608633.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608633.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608647.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608647.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608647.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608682.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608682.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608682.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608687.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608687.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608687.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608689.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608689.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608689.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608690.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608690.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608690.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608699.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608699.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608699.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608700.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608700.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608700.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608701.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608701.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608701.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9608702.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9608702.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9608702.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9609061.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9609061.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9609061.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9609077.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9609077.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9609077.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9609103.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9609103.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9609103.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9609114.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9609114.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9609114.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9609116.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9609116.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9609116.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9609122.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9609122.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9609122.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9609124.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9609124.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9609124.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9609126.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9609126.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9609126.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9609128.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9609128.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9609128.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9609139.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9609139.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9609139.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "9609153.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/9609153.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/9609153.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-10300.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-10300.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-10300.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-10405.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-10405.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-10405.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-10511.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-10511.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-10511.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-11554.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-11554.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-11554.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-11569.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-11569.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-11569.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-11574.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-11574.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-11574.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-12613.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-12613.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-12613.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-12643.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-12643.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-12643.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-12663.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-12663.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-12663.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-12668.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-12668.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-12668.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-14273.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-14273.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-14273.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-14275.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-14275.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-14275.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-14276.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-14276.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-14276.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-14277.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-14277.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-14277.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-14279.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-14279.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-14279.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-14280.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-14280.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-14280.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-14281.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-14281.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-14281.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-14296.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-14296.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-14296.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-14311.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-14311.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-14311.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-14312.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-14312.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-14312.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-15855.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-15855.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-15855.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-15917.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-15917.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-15917.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-15920.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-15920.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-15920.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-15921.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-15921.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-15921.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-16083.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-16083.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-16083.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-16091.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-16091.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-16091.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-16108.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-16108.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-16108.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-179.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-179.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-179.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-19180.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-19180.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-19180.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-19204.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-19204.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-19204.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-19210.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-19210.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-19210.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-20318.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-20318.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-20318.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-20336.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-20336.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-20336.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-20971.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-20971.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-20971.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21030.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21030.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21030.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21035.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21035.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21035.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21036.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21036.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21036.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21062.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21062.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21062.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21116.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21116.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21116.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21121.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21121.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21121.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21136.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21136.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21136.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21142.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21142.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21142.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21144.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21144.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21144.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21146.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21146.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21146.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21149.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21149.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21149.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21150.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21150.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21150.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21151.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21151.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21151.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21190.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21190.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21190.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21198.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21198.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21198.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21201.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21201.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21201.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21217.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21217.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21217.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21227.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21227.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21227.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21238.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21238.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21238.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21242.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21242.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21242.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21243.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21243.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21243.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-21257.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-21257.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-21257.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23107.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23107.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23107.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23109.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23109.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23109.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23114.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23114.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23114.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23198.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23198.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23198.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23282.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23282.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23282.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23294.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23294.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23294.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23303.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23303.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23303.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23310.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23310.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23310.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23311.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23311.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23311.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23330.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23330.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23330.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23411.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23411.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23411.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23482.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23482.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23482.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23504.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23504.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23504.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23514.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23514.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23514.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23577.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23577.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23577.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23578.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23578.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23578.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23587.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23587.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23587.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23674.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23674.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23674.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23676.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23676.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23676.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23716.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23716.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23716.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23717.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23717.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23717.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-23732.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-23732.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-23732.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-241.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-241.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-241.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-24179.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-24179.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-24179.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25205.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25205.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25205.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25206.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25206.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25206.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25207.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25207.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25207.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25210.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25210.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25210.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25211.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25211.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25211.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25212.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25212.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25212.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25214.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25214.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25214.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25219.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25219.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25219.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-253.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-253.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-253.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25345.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25345.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25345.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25346.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25346.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25346.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25359.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25359.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25359.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25394.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25394.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25394.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25395.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25395.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25395.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25396.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25396.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25396.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25403.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25403.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25403.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25461.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25461.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25461.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25463.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25463.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25463.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-25497.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-25497.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-25497.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-28154.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-28154.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-28154.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-28283.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-28283.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-28283.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-28292.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-28292.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-28292.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-29779.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-29779.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-29779.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-9564.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-9564.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-9564.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-9566.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-9566.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-9566.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-9567.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-9567.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-9567.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ART002-E-9572.JPG",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ART002-E-9572.JPG",
+      "output": "assets/artemis2/media/thumbnails/images/ART002-E-9572.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "art002e014256~large.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/art002e014256~large.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/art002e014256-large.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "art002e016165~large.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/art002e016165~large.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/art002e016165-large.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "art002e016171~large.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/art002e016171~large.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/art002e016171-large.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "art002e016172~large.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/art002e016172~large.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/art002e016172-large.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "dsc-3427.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/dsc-3427.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/dsc-3427.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "jsc2026e022251~large.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/jsc2026e022251~large.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/jsc2026e022251-large.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "jsc2026e022281~large.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/jsc2026e022281~large.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/jsc2026e022281-large.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "jsc2026e022287~large.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/jsc2026e022287~large.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/jsc2026e022287-large.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "jsc2026e022290~large.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/jsc2026e022290~large.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/jsc2026e022290-large.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "jsc2026e022292~large.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/jsc2026e022292~large.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/jsc2026e022292-large.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "jsc2026e022293~large.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/jsc2026e022293~large.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/jsc2026e022293-large.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "jsc2026e022310~large.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/jsc2026e022310~large.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/jsc2026e022310-large.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "jsc2026e022312~large.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/jsc2026e022312~large.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/jsc2026e022312-large.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "jsc2026e022320~large.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/jsc2026e022320~large.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/jsc2026e022320-large.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "jsc2026e022321~large.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/jsc2026e022321~large.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/jsc2026e022321-large.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260401-PH-KLS01_0013.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260401-PH-KLS01_0013.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260401-PH-KLS01_0013.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260401-PH-KLS01_0040.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260401-PH-KLS01_0040.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260401-PH-KLS01_0040.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260401-PH-KLS01_0045.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260401-PH-KLS01_0045.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260401-PH-KLS01_0045.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260401-PH-KLS01_0061.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260401-PH-KLS01_0061.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260401-PH-KLS01_0061.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260401-PH-KLS01_0101.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260401-PH-KLS01_0101.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260401-PH-KLS01_0101.webp",
+      "status": "written"
+    },
+    {
+      "id": "KSC-20260401-PH-KLS01_0106.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260401-PH-KLS01_0106.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260401-PH-KLS01_0106.webp",
+      "status": "written"
+    },
+    {
+      "id": "KSC-20260401-PH-KLS01_0198.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260401-PH-KLS01_0198.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260401-PH-KLS01_0198.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260401-PH-KLS01_0207.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260401-PH-KLS01_0207.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260401-PH-KLS01_0207.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260401-PH-KLS01_0270.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260401-PH-KLS01_0270.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260401-PH-KLS01_0270.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260401-PH-KLS02_0093.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260401-PH-KLS02_0093.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260401-PH-KLS02_0093.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260401-PH-SFL01_0002.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260401-PH-SFL01_0002.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260401-PH-SFL01_0002.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260411-KED01-0249.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260411-KED01-0249.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260411-KED01-0249.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260411-KED01-0267.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260411-KED01-0267.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260411-KED01-0267.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260411-KED01-0285.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260411-KED01-0285.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260411-KED01-0285.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260411-KED01-0287.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260411-KED01-0287.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260411-KED01-0287.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260411-KED01-0384.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260411-KED01-0384.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260411-KED01-0384.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260411-KED01-0425.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260411-KED01-0425.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260411-KED01-0425.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260411-KED01-0652.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260411-KED01-0652.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260411-KED01-0652.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "KSC-20260411-KED01-0732.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/KSC-20260411-KED01-0732.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/KSC-20260411-KED01-0732.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "NHQ20260401_admin_0002.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/NHQ20260401_admin_0002.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/NHQ20260401_admin_0002.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "nhq202604100018.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/nhq202604100018.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/nhq202604100018.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "NHQ202604100032.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/NHQ202604100032.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/NHQ202604100032.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "NHQ202604100037.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/NHQ202604100037.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/NHQ202604100037.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "NHQ202604100043.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/NHQ202604100043.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/NHQ202604100043.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "NHQ202604100044.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/NHQ202604100044.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/NHQ202604100044.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "NHQ202604100057.jpg",
+      "kind": "image",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/NHQ202604100057.jpg",
+      "output": "assets/artemis2/media/thumbnails/images/NHQ202604100057.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "4-4-26_07_45UT.mp4",
+      "kind": "videoClip",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/4-4-26_07_45UT.mp4",
+      "output": "assets/artemis2/media/thumbnails/videos/4-4-26_07_45UT.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "4-8-26_7_49UT.mp4",
+      "kind": "videoClip",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/4-8-26_7_49UT.mp4",
+      "output": "assets/artemis2/media/thumbnails/videos/4-8-26_7_49UT.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ig-capsule-egress.mp4",
+      "kind": "videoClip",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ig-capsule-egress.mp4",
+      "output": "assets/artemis2/media/thumbnails/videos/ig-capsule-egress.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ig-earthset-wiseman.mp4",
+      "kind": "videoClip",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ig-earthset-wiseman.mp4",
+      "output": "assets/artemis2/media/thumbnails/videos/ig-earthset-wiseman.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ig-earthshine-koch.mp4",
+      "kind": "videoClip",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ig-earthshine-koch.mp4",
+      "output": "assets/artemis2/media/thumbnails/videos/ig-earthshine-koch.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ig-fd8-evening-vibes.mp4",
+      "kind": "videoClip",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ig-fd8-evening-vibes.mp4",
+      "output": "assets/artemis2/media/thumbnails/videos/ig-fd8-evening-vibes.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ig-fd8-press-conference.mp4",
+      "kind": "videoClip",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ig-fd8-press-conference.mp4",
+      "output": "assets/artemis2/media/thumbnails/videos/ig-fd8-press-conference.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ig-gravity-flyby.mp4",
+      "kind": "videoClip",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ig-gravity-flyby.mp4",
+      "output": "assets/artemis2/media/thumbnails/videos/ig-gravity-flyby.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ig-nutella.mp4",
+      "kind": "videoClip",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ig-nutella.mp4",
+      "output": "assets/artemis2/media/thumbnails/videos/ig-nutella.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ig-pink-pony-club.mp4",
+      "kind": "videoClip",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ig-pink-pony-club.mp4",
+      "output": "assets/artemis2/media/thumbnails/videos/ig-pink-pony-club.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "ig-welcome-aboard.mp4",
+      "kind": "videoClip",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/ig-welcome-aboard.mp4",
+      "output": "assets/artemis2/media/thumbnails/videos/ig-welcome-aboard.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "loop.mp4",
+      "kind": "videoClip",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/loop.mp4",
+      "output": "assets/artemis2/media/thumbnails/videos/loop.webp",
+      "status": "skipped"
+    },
+    {
+      "id": "yt-mic-trouble.mp4",
+      "kind": "videoClip",
+      "source": "https://pub-6f67061aecce4413aa83975cba06595d.r2.dev/web/yt-mic-trouble.mp4",
+      "output": "assets/artemis2/media/thumbnails/videos/yt-mic-trouble.webp",
+      "status": "skipped"
+    }
+  ]
+}

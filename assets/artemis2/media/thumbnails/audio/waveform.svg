@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-label="Audio waveform">
+  <rect width="320" height="180" rx="14" fill="#070d17"/>
+  <circle cx="160" cy="88" r="118" fill="#f5be67" opacity="0.08"/>
+  <path d="M24 92 C42 54 60 54 78 92 S112 130 130 92 S160 38 180 92 S218 146 238 92 S278 58 296 92" fill="none" stroke="#f5be67" stroke-width="24" stroke-linecap="round" opacity="0.22"/>
+  <path d="M24 92 C42 54 60 54 78 92 S112 130 130 92 S160 38 180 92 S218 146 238 92 S278 58 296 92" fill="none" stroke="#ffe8b1" stroke-width="7" stroke-linecap="round"/>
+</svg>
