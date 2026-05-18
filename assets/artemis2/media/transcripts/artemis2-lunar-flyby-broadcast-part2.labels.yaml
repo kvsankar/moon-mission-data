@@ -1,0 +1,190 @@
+# Speaker label map for Artemis 2 lunar flyby broadcast — Part 2
+# Pyannote re-clusters per file: speaker IDs do NOT match part 1.
+# Notable in part 2: President Donald Trump, NASA Administrator Jared Isaacman,
+# and a shift handover between Leah Cheshier-Mustachio and Anna Schneider.
+
+source: artemis2-lunar-flyby-broadcast-part2.webm
+duration_hms: "03:57:06"
+
+# Time ranges (in seconds or HH:MM:SS) known to contain garbled / hallucinated text.
+# Segments falling in these ranges are tagged status="garbled" in the JSON output.
+garbled_spans:
+  # v3 transcription with VAD + no conditioning eliminated previous hallucination blocks:
+  # the mascara block at 00:03:26-00:03:57 and the CastingWords block at 01:56:57-02:00:30
+  # are now silent / contain real speech and no longer need to be filtered.
+  []
+
+speakers:
+  LEAH_CHESHIER:
+    raw_ids: [SPEAKER_25]
+    name: Leah Cheshier-Mustachio
+    role: NASA PAO Host (first half)
+    affiliation: NASA
+    confidence: confirmed
+
+  ANNA_SCHNEIDER:
+    raw_ids: [SPEAKER_24]
+    name: Anna Schneider
+    role: NASA PAO Host (overnight shift)
+    affiliation: NASA
+    confidence: confirmed
+
+  JARED_ISAACMAN:
+    raw_ids: [SPEAKER_19]
+    name: Jared Isaacman
+    role: NASA Administrator
+    affiliation: NASA
+    confidence: confirmed
+
+  PRESIDENT_TRUMP:
+    raw_ids: [SPEAKER_12]
+    name: Donald J. Trump
+    role: President of the United States
+    affiliation: US Government
+    confidence: confirmed
+
+  TESS_CASWELL:
+    raw_ids: [SPEAKER_08]
+    name: Tess Caswell
+    role: CAPCOM (Orbit 2 shift)
+    affiliation: NASA
+    confidence: confirmed
+
+  JEFF_RADIGAN:
+    raw_ids: [SPEAKER_09]
+    name: Jeff Radigan
+    role: Flight Director (Orbit 1)
+    affiliation: NASA
+    confidence: high
+
+  REID_WISEMAN:
+    raw_ids: [REID_WISEMAN, SPEAKER_11, SPEAKER_14]
+    original_raw_id: SPEAKER_05
+    name: Reid Wiseman
+    role: Commander
+    affiliation: NASA
+    confidence: high
+    notes: |
+      Disambiguated from SPEAKER_05 (which originally merged Reid's Trump-call response and
+      post-Trump interview with a pre-recorded narrator). Anchored on 03:42:00.
+
+  PROMO_REFLECTION:
+    raw_ids: [PROMO_REFLECTION]
+    original_raw_id: SPEAKER_05
+    name: NASA Pre-recorded Reflection Narrator
+    role: Pre-recorded reflection voiceover at start of part 2
+    affiliation: NASA
+    confidence: medium
+    notes: |
+      Disambiguated from SPEAKER_05. 7 segments at the very beginning (~00:01:27),
+      "We all have seen the same side of the moon..."
+
+  VICTOR_GLOVER:
+    raw_ids: [SPEAKER_18, SPEAKER_02, VICTOR_GLOVER]
+    name: Victor Glover
+    role: Pilot
+    affiliation: NASA
+    confidence: high
+    notes: |
+      SPEAKER_18 = pre-recorded "I was in the Navy" reflection at start.
+      SPEAKER_02 = pre-recorded "witness plate" reflection + post-flyby interview at
+      03:20 + 03:42 manual flight test description ("it was Jeremy and I this time,
+      and just drive around using the rotational hand controller" — that's the pilot's
+      job, so it's Victor not Jeremy).
+      VICTOR_GLOVER literal = disambiguated from SPEAKER_15 (eclipse observations
+      like "glow around the moon... 10 times the diameters of the sun").
+
+  JEREMY_HANSEN:
+    raw_ids: [SPEAKER_16]
+    name: Jeremy Hansen
+    role: Mission Specialist 2
+    affiliation: CSA
+    confidence: high
+
+  KELSEY_YOUNG:
+    raw_ids: [SPEAKER_07]
+    name: Kelsey Evans Young
+    role: Artemis Science Flight Operations Lead
+    affiliation: NASA
+    confidence: confirmed
+    notes: |
+      Live ops-loop voice ("Love the description, Victor...").
+
+  MARIE_HENDERSON:
+    raw_ids: [SPEAKER_22]
+    name: Marie Henderson
+    role: Artemis II Lunar Science Deputy Lead
+    affiliation: NASA
+    confidence: confirmed
+    notes: |
+      Pre-recorded training-explainer at the start of part 2 (00:04:47+).
+      Leah Cheshier introduces her by name immediately before
+      ("Artemis II Lunar Science Deputy Lead Marie Henderson has trained
+      these astronauts to capture and document their views of the lunar surface").
+      EARLIER INCORRECTLY MERGED INTO KELSEY_YOUNG — Marie Henderson is a
+      distinct NASA scientist, not Kelsey. Both work the science team, both
+      have geology backgrounds, but they are different people.
+
+  PROMO_NARRATOR:
+    raw_ids: [SPEAKER_04, PROMO_NARRATOR]
+    name: NASA Promotional Narrator
+    role: Pre-recorded video voiceover about Artemis program
+    affiliation: NASA
+    confidence: high
+    notes: |
+      SPEAKER_04 = main promotional content (e.g. "We learned a lot from the Apollo samples").
+      PROMO_NARRATOR literal = 5 segments disambiguated from SPEAKER_17 ("liftoff of
+      Artemis one, we rise together") — same documentary-style narrator. NOTE: 2-3 of
+      these 5 segments may actually be Reid's comm checks misclassified (low confidence
+      margin on that disambig pass).
+
+  SCIENCE_OFFICER:
+    raw_ids: [SCIENCE_OFFICER]
+    name: Science Officer / PAO mixed
+    role: Mixed cluster from SPEAKER_15 disambiguation
+    affiliation: NASA
+    confidence: low
+    notes: |
+      Disambiguated from SPEAKER_15 by separating out clearly-Victor eclipse-observation
+      content. The remaining 50 segments are a mix of science-officer responses to crew
+      ("Great, SITREP Victor", "Thank you, Victor") AND PAO host commentary
+      ("you're looking at a live view", "we are obviously still receiving their video").
+      Likely contains Kelsey/Angela + Anna voices that pyannote couldn't separate.
+      Probably worth treating as a "Mission Control / Commentary" generic label in the app.
+
+  ANGELA_GARCIA:
+    raw_ids: [SPEAKER_21]
+    name: Angela Garcia
+    role: Artemis II Science Officer (3rd shift / late-day handover)
+    affiliation: NASA
+    confidence: confirmed
+    notes: |
+      Identified via correlation of ALL SPEAKER_21 utterances:
+      (a) self-identifies as "one of the three science officers" who takes over
+          from Kelsey late in the day with Trevor Graff on planning shift,
+      (b) the host addresses her by name at 00:44:52: "angela garcia thank you
+          so much for joining us today and have a great time tonight on console."
+
+  UNRESOLVED:
+    raw_ids: [SPEAKER_00, SPEAKER_01, SPEAKER_03, SPEAKER_06, SPEAKER_10, SPEAKER_13, SPEAKER_20, SPEAKER_23]
+    name: Unidentified
+    role: Various — mix of brief crew responses, interviewees, unclassified
+    confidence: none
+    notes: |
+      SPEAKER_15 — MIXED CLUSTER: contains both (a) Victor Glover doing live eclipse
+        observations ("glow around the moon... 10 times the diameters of the sun")
+        and (b) a science officer responding ("Great, SITREP Victor", "Thank you,
+        Victor"). Would benefit from a disambiguation pass with anchors at
+        ~01:51:33 (Victor) and ~02:02:09 (science officer).
+      SPEAKER_17 — MIXED CLUSTER: contains both (a) Reid Wiseman doing comm check
+        before the Trump call ("Administrator Isaacmen, we've got you loud and
+        clear, Sir.") and (b) pre-recorded NASA promo ("liftoff of Artemis one,
+        we rise together..."). Would benefit from disambiguation.
+      Smaller SPEAKER_00/01/03/06/10/13/20/23 clusters have too little content
+      to identify confidently without audio.
+
+  UNKNOWN:
+    raw_ids: [UNKNOWN]
+    name: Unattributed speech
+    role: Whisper produced text but pyannote found no speaker turn
+    confidence: none

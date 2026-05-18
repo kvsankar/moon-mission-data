@@ -1,0 +1,111 @@
+# Speaker label map for Artemis 2 lunar flyby broadcast — Part 1
+# Schema: top-level "speakers" dict keyed by canonical KEY (used in output).
+# Each entry has:
+#   raw_ids: list of pyannote-emitted IDs that map to this person (or VICTOR_GLOVER /
+#            JEREMY_HANSEN literals if the disambiguated transcript is consumed)
+#   name, role, affiliation: display fields
+#   confidence: confirmed | high | medium | low | none
+#   drop: optional bool — if true, segments with this label are dropped from app output
+
+source: artemis2-lunar-flyby-broadcast-part1.webm
+duration_hms: "06:12:53"
+
+# Time ranges (in seconds or HH:MM:SS) known to contain garbled / hallucinated text.
+# Segments falling in these ranges are tagged status="garbled" in the JSON output.
+garbled_spans:
+  # v3 transcription with VAD + no conditioning eliminated previous hallucination blocks:
+  # CastingWords at 01:03:41-01:05:41 and 01:28:23-01:29:23, Amara at 01:59:40-01:59:50.
+  # These ranges now contain real speech (Leah's narration that was previously buried).
+  []
+
+speakers:
+  CHRISTINA_KOCH:
+    raw_ids: [SPEAKER_03]
+    name: Christina Koch
+    role: Mission Specialist 1
+    affiliation: NASA
+    confidence: confirmed
+
+  VICTOR_GLOVER:
+    raw_ids: [VICTOR_GLOVER]
+    original_raw_id: SPEAKER_04
+    name: Victor Glover
+    role: Pilot
+    affiliation: NASA
+    callsign: Ike
+    confidence: high
+
+  JEREMY_HANSEN:
+    raw_ids: [JEREMY_HANSEN]
+    original_raw_id: SPEAKER_04
+    name: Jeremy Hansen
+    role: Mission Specialist 2
+    affiliation: CSA
+    confidence: high
+
+  REID_WISEMAN:
+    raw_ids: [SPEAKER_06, SPEAKER_13]
+    name: Reid Wiseman
+    role: Commander
+    affiliation: NASA
+    confidence: high
+
+  LEAH_CHESHIER:
+    raw_ids: [SPEAKER_11]
+    name: Leah Cheshier-Mustachio
+    role: NASA PAO Host
+    affiliation: NASA
+    confidence: confirmed
+
+  JENNY_GIBBONS:
+    raw_ids: [SPEAKER_16]
+    name: Jenny Gibbons
+    role: CAPCOM
+    affiliation: CSA
+    confidence: confirmed
+
+  KELSEY_YOUNG:
+    raw_ids: [SPEAKER_15, SPEAKER_14]
+    name: Kelsey Evans Young
+    role: Artemis Science Flight Operations Lead
+    affiliation: NASA
+    confidence: confirmed
+    notes: |
+      SPEAKER_15 = live ops-loop voice during the flyby ("this is science...").
+      SPEAKER_14 = post-flyby interview at 05:51 where she describes her Ph.D.
+      geology background and the science console she built. Pyannote split her
+      across two clusters because the interview audio sounds different from the
+      live console mic.
+
+  PROMO_DSN:
+    raw_ids: [SPEAKER_07]
+    name: NASA Promotional Narrator (DSN explainer)
+    role: Pre-recorded video voiceover
+    affiliation: NASA
+    confidence: confirmed
+
+  PROMO_INTRO:
+    raw_ids: [SPEAKER_01]
+    name: NASA Intro Montage Voice
+    role: Pre-recorded intro
+    affiliation: NASA
+    confidence: medium
+
+  SCIENCE_THEMELEAD:
+    raw_ids: [SPEAKER_10]
+    name: NASA Science Theme Lead (impacts/landing sites)
+    role: Interviewed science team member
+    affiliation: NASA
+    confidence: low
+
+  UNRESOLVED:
+    raw_ids: [SPEAKER_00, SPEAKER_02, SPEAKER_05, SPEAKER_08, SPEAKER_09, SPEAKER_12, SPEAKER_17]
+    name: Unidentified
+    role: Various — short utterances or fragments
+    confidence: none
+
+  UNKNOWN:
+    raw_ids: [UNKNOWN]
+    name: Unattributed speech
+    role: Whisper produced text but pyannote found no speaker turn (often hallucinations)
+    confidence: none
