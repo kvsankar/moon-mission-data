@@ -4,8 +4,8 @@ These files are generated transcript artifacts for the Artemis II lunar flyby br
 
 Canonical runtime files:
 
-- `artemis2-lunar-flyby-broadcast-combined.json`: unified Part 1 + Part 2 transcript timeline with speaker labels and word-level alignment.
-- `artemis2-lunar-flyby-broadcast.index.json`: curated entity/search index built from the combined transcript.
+- `artemis2-lunar-flyby-broadcast-combined.json`: unified Part 1 + Part 2 transcript timeline with speaker labels, word-level alignment, and schema v4 `displayStartSeconds` / `displayEndSeconds` caption ranges.
+- `artemis2-lunar-flyby-broadcast.index.json`: curated entity/search index built from the combined transcript. Mention `startSeconds` / `endSeconds` use display timing; raw segment lineage is kept as `segmentStartSeconds` / `segmentEndSeconds`.
 - `artemis2-lunar-flyby-broadcast-part1.vtt`: Part 1 WebVTT fallback captions.
 - `artemis2-lunar-flyby-broadcast-part2.vtt`: Part 2 WebVTT fallback captions.
 - `artemis2-lunar-flyby-broadcast-part1.labels.yaml`: Part 1 speaker/provenance label sidecar.
