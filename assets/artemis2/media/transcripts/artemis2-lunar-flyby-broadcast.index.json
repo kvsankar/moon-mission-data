@@ -3,7 +3,7 @@
   "source": "artemis2-lunar-flyby-broadcast (combined Part 1 + Part 2)",
   "durationHms": "10:09:59",
   "totalEntities": 71,
-  "totalMentions": 1646,
+  "totalMentions": 1648,
   "categories": {
     "lunar_features": {
       "title": "Lunar Features",
@@ -120,8 +120,8 @@
         "leah_cheshier",
         "diane_daly",
         "trevor_graff",
-        "president_trump",
         "anna_schneider",
+        "president_trump",
         "marie_henderson",
         "dionna_glover",
         "sarah_noble",
@@ -319,7 +319,7 @@
         "mare orientale",
         "oriental basin"
       ],
-      "mentionCount": 35,
+      "mentionCount": 37,
       "mentions": [
         {
           "segmentId": 350,
@@ -609,6 +609,36 @@
           "matchedAliases": [
             "oriental",
             "oriental basin"
+          ]
+        },
+        {
+          "segmentId": 1625,
+          "part": "part1",
+          "startSeconds": 16281.0,
+          "endSeconds": 16291.2,
+          "segmentStartSeconds": 16278.0,
+          "segmentEndSeconds": 16299.0,
+          "originStartSeconds": 16278.0,
+          "speaker": "VICTOR_GLOVER",
+          "displaySpeaker": "Victor Glover",
+          "text": "It is interesting just looking at Oriental is all of the dark, well, it's still relatively the same to the sun, but my angle to it is different.",
+          "matchedAliases": [
+            "oriental"
+          ]
+        },
+        {
+          "segmentId": 1628,
+          "part": "part1",
+          "startSeconds": 16329.521,
+          "endSeconds": 16337.0,
+          "segmentStartSeconds": 16329.0,
+          "segmentEndSeconds": 16337.0,
+          "originStartSeconds": 16329.0,
+          "speaker": "KELSEY_YOUNG",
+          "displaySpeaker": "Kelsey Evans Young",
+          "text": "Any additional words you can provide on Oriental would be wonderful as that is such a high priority target for us.",
+          "matchedAliases": [
+            "oriental"
           ]
         },
         {
@@ -1059,8 +1089,8 @@
         {
           "segmentId": 1086,
           "part": "part1",
-          "startSeconds": 10377.0,
-          "endSeconds": 10389.614,
+          "startSeconds": 10404.0,
+          "endSeconds": 10412.5,
           "segmentStartSeconds": 10377.0,
           "segmentEndSeconds": 10433.0,
           "originStartSeconds": 10377.0,
@@ -1124,7 +1154,7 @@
           "originStartSeconds": 3974.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Another near Glushko, which is a bright spot, named Carol, in memory of Reed Wiseman's wife.",
+          "text": "Another near Glushko, which is a bright spot, named Carol, in memory of Reid Wiseman's wife.",
           "matchedAliases": [
             "glushko"
           ]
@@ -1425,8 +1455,8 @@
         {
           "segmentId": 901,
           "part": "part1",
-          "startSeconds": 8334.22,
-          "endSeconds": 8339.656,
+          "startSeconds": 8334.0,
+          "endSeconds": 8339.436,
           "segmentStartSeconds": 8334.0,
           "segmentEndSeconds": 8354.0,
           "originStartSeconds": 8334.0,
@@ -2587,7 +2617,7 @@
         {
           "segmentId": 2427,
           "part": "part2",
-          "startSeconds": 23563.723,
+          "startSeconds": 23563.722999999998,
           "endSeconds": 23568.0,
           "segmentStartSeconds": 23563.0,
           "segmentEndSeconds": 23568.0,
@@ -2708,7 +2738,7 @@
         {
           "segmentId": 2572,
           "part": "part2",
-          "startSeconds": 24589.401,
+          "startSeconds": 24589.400999999998,
           "endSeconds": 24595.0,
           "segmentStartSeconds": 24589.0,
           "segmentEndSeconds": 24595.0,
@@ -2770,7 +2800,7 @@
         {
           "segmentId": 2708,
           "part": "part2",
-          "startSeconds": 25324.723,
+          "startSeconds": 25324.722999999998,
           "endSeconds": 25329.0,
           "segmentStartSeconds": 25324.0,
           "segmentEndSeconds": 25329.0,
@@ -2849,8 +2879,8 @@
         {
           "segmentId": 2796,
           "part": "part2",
-          "startSeconds": 25861.32,
-          "endSeconds": 25864.212,
+          "startSeconds": 25861.0,
+          "endSeconds": 25863.892,
           "segmentStartSeconds": 25861.0,
           "segmentEndSeconds": 25897.0,
           "originStartSeconds": 3488.0,
@@ -2881,7 +2911,7 @@
         {
           "segmentId": 2875,
           "part": "part2",
-          "startSeconds": 27113.562,
+          "startSeconds": 27113.561999999998,
           "endSeconds": 27118.0,
           "segmentStartSeconds": 27113.0,
           "segmentEndSeconds": 27118.0,
@@ -2989,7 +3019,7 @@
         {
           "segmentId": 2887,
           "part": "part2",
-          "startSeconds": 27179.401,
+          "startSeconds": 27179.400999999998,
           "endSeconds": 27186.0,
           "segmentStartSeconds": 27179.0,
           "segmentEndSeconds": 27186.0,
@@ -3050,7 +3080,7 @@
         {
           "segmentId": 2907,
           "part": "part2",
-          "startSeconds": 27444.221,
+          "startSeconds": 27444.220999999998,
           "endSeconds": 27448.0,
           "segmentStartSeconds": 27444.0,
           "segmentEndSeconds": 27448.0,
@@ -3097,7 +3127,7 @@
         {
           "segmentId": 2953,
           "part": "part2",
-          "startSeconds": 28135.563,
+          "startSeconds": 28135.563000000002,
           "endSeconds": 28139.0,
           "segmentStartSeconds": 28135.0,
           "segmentEndSeconds": 28139.0,
@@ -3112,8 +3142,8 @@
         {
           "segmentId": 2954,
           "part": "part2",
-          "startSeconds": 28139.06,
-          "endSeconds": 28143.071,
+          "startSeconds": 28139.0,
+          "endSeconds": 28143.011,
           "segmentStartSeconds": 28139.0,
           "segmentEndSeconds": 28212.0,
           "originStartSeconds": 5766.0,
@@ -3142,7 +3172,7 @@
         {
           "segmentId": 2962,
           "part": "part2",
-          "startSeconds": 28393.543,
+          "startSeconds": 28393.542999999998,
           "endSeconds": 28397.0,
           "segmentStartSeconds": 28393.0,
           "segmentEndSeconds": 28397.0,
@@ -3157,7 +3187,7 @@
         {
           "segmentId": 2969,
           "part": "part2",
-          "startSeconds": 28446.402,
+          "startSeconds": 28446.402000000002,
           "endSeconds": 28449.728,
           "segmentStartSeconds": 28446.0,
           "segmentEndSeconds": 28450.0,
@@ -3202,8 +3232,8 @@
         {
           "segmentId": 3046,
           "part": "part2",
-          "startSeconds": 29648.44,
-          "endSeconds": 29654.216,
+          "startSeconds": 29648.0,
+          "endSeconds": 29653.775999999998,
           "segmentStartSeconds": 29648.0,
           "segmentEndSeconds": 29668.0,
           "originStartSeconds": 7275.0,
@@ -3264,7 +3294,7 @@
           "segmentId": 3108,
           "part": "part2",
           "startSeconds": 30427.14,
-          "endSeconds": 30432.829,
+          "endSeconds": 30432.828999999998,
           "segmentStartSeconds": 30427.0,
           "segmentEndSeconds": 30433.0,
           "originStartSeconds": 8054.0,
@@ -3325,7 +3355,7 @@
         {
           "segmentId": 3132,
           "part": "part2",
-          "startSeconds": 30729.221,
+          "startSeconds": 30729.220999999998,
           "endSeconds": 30734.0,
           "segmentStartSeconds": 30729.0,
           "segmentEndSeconds": 30734.0,
@@ -3386,7 +3416,7 @@
           "segmentId": 3156,
           "part": "part2",
           "startSeconds": 30967.903,
-          "endSeconds": 30973.649,
+          "endSeconds": 30973.648999999998,
           "segmentStartSeconds": 30967.0,
           "segmentEndSeconds": 30974.0,
           "originStartSeconds": 8594.0,
@@ -3462,7 +3492,7 @@
           "segmentId": 3612,
           "part": "part2",
           "startSeconds": 35436.602,
-          "endSeconds": 35441.408,
+          "endSeconds": 35441.407999999996,
           "segmentStartSeconds": 35436.0,
           "segmentEndSeconds": 35442.0,
           "originStartSeconds": 13063.0,
@@ -3975,7 +4005,7 @@
           "segmentId": 3071,
           "part": "part2",
           "startSeconds": 30036.501,
-          "endSeconds": 30039.135,
+          "endSeconds": 30039.135000000002,
           "segmentStartSeconds": 30036.0,
           "segmentEndSeconds": 30047.0,
           "originStartSeconds": 7663.0,
@@ -4125,7 +4155,7 @@
         {
           "segmentId": 2573,
           "part": "part2",
-          "startSeconds": 24595.401,
+          "startSeconds": 24595.400999999998,
           "endSeconds": 24604.0,
           "segmentStartSeconds": 24595.0,
           "segmentEndSeconds": 24604.0,
@@ -4250,7 +4280,7 @@
         {
           "segmentId": 2915,
           "part": "part2",
-          "startSeconds": 27544.221,
+          "startSeconds": 27544.220999999998,
           "endSeconds": 27548.0,
           "segmentStartSeconds": 27544.0,
           "segmentEndSeconds": 27548.0,
@@ -4297,7 +4327,7 @@
         {
           "segmentId": 3014,
           "part": "part2",
-          "startSeconds": 29140.402,
+          "startSeconds": 29140.402000000002,
           "endSeconds": 29145.0,
           "segmentStartSeconds": 29140.0,
           "segmentEndSeconds": 29145.0,
@@ -4328,7 +4358,7 @@
         {
           "segmentId": 3023,
           "part": "part2",
-          "startSeconds": 29271.082,
+          "startSeconds": 29271.082000000002,
           "endSeconds": 29282.0,
           "segmentStartSeconds": 29270.0,
           "segmentEndSeconds": 29282.0,
@@ -4343,7 +4373,7 @@
         {
           "segmentId": 3039,
           "part": "part2",
-          "startSeconds": 29587.224,
+          "startSeconds": 29587.224000000002,
           "endSeconds": 29592.0,
           "segmentStartSeconds": 29586.0,
           "segmentEndSeconds": 29592.0,
@@ -4374,7 +4404,7 @@
         {
           "segmentId": 3062,
           "part": "part2",
-          "startSeconds": 29906.26,
+          "startSeconds": 29906.260000000002,
           "endSeconds": 29945.83,
           "segmentStartSeconds": 29906.0,
           "segmentEndSeconds": 29946.0,
@@ -4696,7 +4726,7 @@
           "segmentId": 3102,
           "part": "part2",
           "startSeconds": 30344.04,
-          "endSeconds": 30350.76,
+          "endSeconds": 30350.760000000002,
           "segmentStartSeconds": 30344.0,
           "segmentEndSeconds": 30357.0,
           "originStartSeconds": 7971.0,
@@ -4710,7 +4740,7 @@
         {
           "segmentId": 3185,
           "part": "part2",
-          "startSeconds": 31125.829,
+          "startSeconds": 31125.828999999998,
           "endSeconds": 31128.0,
           "segmentStartSeconds": 31124.0,
           "segmentEndSeconds": 31128.0,
@@ -4768,7 +4798,7 @@
         {
           "segmentId": 2887,
           "part": "part2",
-          "startSeconds": 27179.401,
+          "startSeconds": 27179.400999999998,
           "endSeconds": 27186.0,
           "segmentStartSeconds": 27179.0,
           "segmentEndSeconds": 27186.0,
@@ -4798,7 +4828,7 @@
         {
           "segmentId": 3113,
           "part": "part2",
-          "startSeconds": 30451.902,
+          "startSeconds": 30451.902000000002,
           "endSeconds": 30467.0,
           "segmentStartSeconds": 30450.0,
           "segmentEndSeconds": 30467.0,
@@ -4931,7 +4961,7 @@
         {
           "segmentId": 2887,
           "part": "part2",
-          "startSeconds": 27179.401,
+          "startSeconds": 27179.400999999998,
           "endSeconds": 27186.0,
           "segmentStartSeconds": 27179.0,
           "segmentEndSeconds": 27186.0,
@@ -4961,7 +4991,7 @@
         {
           "segmentId": 3062,
           "part": "part2",
-          "startSeconds": 29906.26,
+          "startSeconds": 29906.260000000002,
           "endSeconds": 29945.83,
           "segmentStartSeconds": 29906.0,
           "segmentEndSeconds": 29946.0,
@@ -5124,7 +5154,7 @@
         {
           "segmentId": 2887,
           "part": "part2",
-          "startSeconds": 27179.401,
+          "startSeconds": 27179.400999999998,
           "endSeconds": 27186.0,
           "segmentStartSeconds": 27179.0,
           "segmentEndSeconds": 27186.0,
@@ -5155,7 +5185,7 @@
           "segmentId": 3071,
           "part": "part2",
           "startSeconds": 30036.501,
-          "endSeconds": 30039.135,
+          "endSeconds": 30039.135000000002,
           "segmentStartSeconds": 30036.0,
           "segmentEndSeconds": 30047.0,
           "originStartSeconds": 7663.0,
@@ -5340,8 +5370,8 @@
         {
           "segmentId": 475,
           "part": "part1",
-          "startSeconds": 3482.22,
-          "endSeconds": 3487.472,
+          "startSeconds": 3482.0,
+          "endSeconds": 3487.252,
           "segmentStartSeconds": 3482.0,
           "segmentEndSeconds": 3529.0,
           "originStartSeconds": 3482.0,
@@ -5574,7 +5604,7 @@
         {
           "segmentId": 2719,
           "part": "part2",
-          "startSeconds": 25402.063,
+          "startSeconds": 25402.063000000002,
           "endSeconds": 25409.0,
           "segmentStartSeconds": 25401.0,
           "segmentEndSeconds": 25409.0,
@@ -6260,7 +6290,7 @@
           "originStartSeconds": 9287.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Victor Glover and Christina Cook serve as their support flyby crew members.",
+          "text": "Victor Glover and Christina Koch serve as their support flyby crew members.",
           "matchedAliases": [
             "flyby"
           ]
@@ -6508,7 +6538,7 @@
           "originStartSeconds": 16000.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "the window portion of their flyby today, Reed Wiseman and Jeremy Hansen will get into their",
+          "text": "the window portion of their flyby today, Reid Wiseman and Jeremy Hansen will get into their",
           "matchedAliases": [
             "flyby"
           ]
@@ -7038,7 +7068,7 @@
         {
           "segmentId": 2870,
           "part": "part2",
-          "startSeconds": 27091.743,
+          "startSeconds": 27091.743000000002,
           "endSeconds": 27096.0,
           "segmentStartSeconds": 27091.0,
           "segmentEndSeconds": 27096.0,
@@ -7149,14 +7179,14 @@
         {
           "segmentId": 3043,
           "part": "part2",
-          "startSeconds": 29631.421,
+          "startSeconds": 29631.421000000002,
           "endSeconds": 29637.0,
           "segmentStartSeconds": 29631.0,
           "segmentEndSeconds": 29637.0,
           "originStartSeconds": 7258.0,
           "speaker": "ANNA_SCHNEIDER",
           "displaySpeaker": "Anna Schneider",
-          "text": "the windows for the final portion of the lunar flyby so Christina Cook is in",
+          "text": "the windows for the final portion of the lunar flyby so Christina Koch is in",
           "matchedAliases": [
             "lunar flyby",
             "flyby"
@@ -7182,7 +7212,7 @@
           "segmentId": 3156,
           "part": "part2",
           "startSeconds": 30967.903,
-          "endSeconds": 30973.649,
+          "endSeconds": 30973.648999999998,
           "segmentStartSeconds": 30967.0,
           "segmentEndSeconds": 30974.0,
           "originStartSeconds": 8594.0,
@@ -7198,7 +7228,7 @@
           "segmentId": 3159,
           "part": "part2",
           "startSeconds": 30983.502,
-          "endSeconds": 30987.226,
+          "endSeconds": 30987.226000000002,
           "segmentStartSeconds": 30983.0,
           "segmentEndSeconds": 30988.0,
           "originStartSeconds": 8610.0,
@@ -7212,7 +7242,7 @@
         {
           "segmentId": 3164,
           "part": "part2",
-          "startSeconds": 31006.202,
+          "startSeconds": 31006.201999999997,
           "endSeconds": 31008.0,
           "segmentStartSeconds": 31006.0,
           "segmentEndSeconds": 31008.0,
@@ -7227,7 +7257,7 @@
         {
           "segmentId": 3168,
           "part": "part2",
-          "startSeconds": 31046.863,
+          "startSeconds": 31046.862999999998,
           "endSeconds": 31052.0,
           "segmentStartSeconds": 31046.0,
           "segmentEndSeconds": 31052.0,
@@ -7305,7 +7335,7 @@
         {
           "segmentId": 3234,
           "part": "part2",
-          "startSeconds": 32342.06,
+          "startSeconds": 32342.059999999998,
           "endSeconds": 32347.929,
           "segmentStartSeconds": 32342.0,
           "segmentEndSeconds": 32348.0,
@@ -7369,7 +7399,7 @@
         {
           "segmentId": 3247,
           "part": "part2",
-          "startSeconds": 32718.06,
+          "startSeconds": 32718.059999999998,
           "endSeconds": 32721.225,
           "segmentStartSeconds": 32718.0,
           "segmentEndSeconds": 32722.0,
@@ -8061,7 +8091,7 @@
         {
           "segmentId": 2825,
           "part": "part2",
-          "startSeconds": 26490.562,
+          "startSeconds": 26490.561999999998,
           "endSeconds": 26495.0,
           "segmentStartSeconds": 26490.0,
           "segmentEndSeconds": 26495.0,
@@ -8109,8 +8139,8 @@
         {
           "segmentId": 2964,
           "part": "part2",
-          "startSeconds": 28403.0,
-          "endSeconds": 28406.593,
+          "startSeconds": 28427.0,
+          "endSeconds": 28429.0,
           "segmentStartSeconds": 28403.0,
           "segmentEndSeconds": 28429.0,
           "originStartSeconds": 6030.0,
@@ -8294,7 +8324,7 @@
           "originStartSeconds": 1131.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Orion, Christina Cook calling back to what she said just before a translunar injection burn,",
+          "text": "Orion, Christina Koch calling back to what she said just before a translunar injection burn,",
           "matchedAliases": [
             "translunar injection"
           ]
@@ -9177,7 +9207,7 @@
           "originStartSeconds": 3180.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "we have the orion spacecraft flying today however the artemus crew members named their orion",
+          "text": "we have the orion spacecraft flying today however the Artemis crew members named their orion",
           "matchedAliases": [
             "orion"
           ]
@@ -9230,8 +9260,8 @@
         {
           "segmentId": 475,
           "part": "part1",
-          "startSeconds": 3482.22,
-          "endSeconds": 3487.472,
+          "startSeconds": 3482.0,
+          "endSeconds": 3487.252,
           "segmentStartSeconds": 3482.0,
           "segmentEndSeconds": 3529.0,
           "originStartSeconds": 3482.0,
@@ -9560,8 +9590,8 @@
         {
           "segmentId": 1018,
           "part": "part1",
-          "startSeconds": 9478.02,
-          "endSeconds": 9481.291,
+          "startSeconds": 9571.0,
+          "endSeconds": 9574.271,
           "segmentStartSeconds": 9478.0,
           "segmentEndSeconds": 9578.0,
           "originStartSeconds": 9478.0,
@@ -9747,7 +9777,7 @@
           "originStartSeconds": 12427.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Currently aboard Orion, Victor Glover and Christina Cook are the two team members",
+          "text": "Currently aboard Orion, Victor Glover and Christina Koch are the two team members",
           "matchedAliases": [
             "orion"
           ]
@@ -10212,7 +10242,7 @@
           "originStartSeconds": 20254.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Currently aboard Orion, four crew members, Reid Wiseman, Victor Glover, Christina Cook, and Jeremy Hansen.",
+          "text": "Currently aboard Orion, four crew members, Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen.",
           "matchedAliases": [
             "orion"
           ]
@@ -10557,7 +10587,7 @@
           "originStartSeconds": 1131.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Orion, Christina Cook calling back to what she said just before a translunar injection burn,",
+          "text": "Orion, Christina Koch calling back to what she said just before a translunar injection burn,",
           "matchedAliases": [
             "orion"
           ]
@@ -10580,7 +10610,7 @@
         {
           "segmentId": 2443,
           "part": "part2",
-          "startSeconds": 23710.723,
+          "startSeconds": 23710.722999999998,
           "endSeconds": 23715.0,
           "segmentStartSeconds": 23710.0,
           "segmentEndSeconds": 23715.0,
@@ -10790,7 +10820,7 @@
         {
           "segmentId": 2918,
           "part": "part2",
-          "startSeconds": 27750.063,
+          "startSeconds": 27750.063000000002,
           "endSeconds": 27756.0,
           "segmentStartSeconds": 27749.0,
           "segmentEndSeconds": 27756.0,
@@ -10940,7 +10970,7 @@
         {
           "segmentId": 3096,
           "part": "part2",
-          "startSeconds": 30267.902,
+          "startSeconds": 30267.902000000002,
           "endSeconds": 30275.0,
           "segmentStartSeconds": 30267.0,
           "segmentEndSeconds": 30275.0,
@@ -10956,7 +10986,7 @@
           "segmentId": 3108,
           "part": "part2",
           "startSeconds": 30427.14,
-          "endSeconds": 30432.829,
+          "endSeconds": 30432.828999999998,
           "segmentStartSeconds": 30427.0,
           "segmentEndSeconds": 30433.0,
           "originStartSeconds": 8054.0,
@@ -11001,7 +11031,7 @@
           "segmentId": 3175,
           "part": "part2",
           "startSeconds": 31083.822,
-          "endSeconds": 31089.99,
+          "endSeconds": 31089.989999999998,
           "segmentStartSeconds": 31083.0,
           "segmentEndSeconds": 31090.0,
           "originStartSeconds": 8710.0,
@@ -11030,7 +11060,7 @@
         {
           "segmentId": 3204,
           "part": "part2",
-          "startSeconds": 31416.12,
+          "startSeconds": 31416.120000000003,
           "endSeconds": 31453.0,
           "segmentStartSeconds": 31416.0,
           "segmentEndSeconds": 31453.0,
@@ -11045,7 +11075,7 @@
         {
           "segmentId": 3234,
           "part": "part2",
-          "startSeconds": 32342.06,
+          "startSeconds": 32342.059999999998,
           "endSeconds": 32347.929,
           "segmentStartSeconds": 32342.0,
           "segmentEndSeconds": 32348.0,
@@ -11090,7 +11120,7 @@
         {
           "segmentId": 3279,
           "part": "part2",
-          "startSeconds": 32847.823,
+          "startSeconds": 32847.823000000004,
           "endSeconds": 32852.849,
           "segmentStartSeconds": 32847.0,
           "segmentEndSeconds": 32853.0,
@@ -11105,8 +11135,8 @@
         {
           "segmentId": 3283,
           "part": "part2",
-          "startSeconds": 32868.342,
-          "endSeconds": 32871.105,
+          "startSeconds": 32868.342000000004,
+          "endSeconds": 32871.104999999996,
           "segmentStartSeconds": 32868.0,
           "segmentEndSeconds": 32872.0,
           "originStartSeconds": 10495.0,
@@ -11240,7 +11270,7 @@
         {
           "segmentId": 3390,
           "part": "part2",
-          "startSeconds": 33838.442,
+          "startSeconds": 33838.441999999995,
           "endSeconds": 33843.0,
           "segmentStartSeconds": 33838.0,
           "segmentEndSeconds": 33843.0,
@@ -11553,8 +11583,8 @@
         {
           "segmentId": 475,
           "part": "part1",
-          "startSeconds": 3482.22,
-          "endSeconds": 3487.472,
+          "startSeconds": 3482.0,
+          "endSeconds": 3487.252,
           "segmentStartSeconds": 3482.0,
           "segmentEndSeconds": 3529.0,
           "originStartSeconds": 3482.0,
@@ -11628,8 +11658,8 @@
         {
           "segmentId": 494,
           "part": "part1",
-          "startSeconds": 3751.08,
-          "endSeconds": 3756.352,
+          "startSeconds": 3791.0,
+          "endSeconds": 3796.272,
           "segmentStartSeconds": 3751.0,
           "segmentEndSeconds": 3805.0,
           "originStartSeconds": 3751.0,
@@ -11658,8 +11688,8 @@
         {
           "segmentId": 665,
           "part": "part1",
-          "startSeconds": 5513.04,
-          "endSeconds": 5514.211,
+          "startSeconds": 5536.0,
+          "endSeconds": 5537.0,
           "segmentStartSeconds": 5513.0,
           "segmentEndSeconds": 5537.0,
           "originStartSeconds": 5513.0,
@@ -11928,8 +11958,8 @@
         {
           "segmentId": 1547,
           "part": "part1",
-          "startSeconds": 15426.14,
-          "endSeconds": 15430.392,
+          "startSeconds": 15426.0,
+          "endSeconds": 15430.252,
           "segmentStartSeconds": 15426.0,
           "segmentEndSeconds": 15467.0,
           "originStartSeconds": 15426.0,
@@ -12423,7 +12453,7 @@
         {
           "segmentId": 3115,
           "part": "part2",
-          "startSeconds": 30489.401,
+          "startSeconds": 30489.400999999998,
           "endSeconds": 30499.0,
           "segmentStartSeconds": 30489.0,
           "segmentEndSeconds": 30499.0,
@@ -12439,7 +12469,7 @@
           "segmentId": 3116,
           "part": "part2",
           "startSeconds": 30499.94,
-          "endSeconds": 30517.757,
+          "endSeconds": 30517.756999999998,
           "segmentStartSeconds": 30499.0,
           "segmentEndSeconds": 30552.0,
           "originStartSeconds": 8126.0,
@@ -12453,7 +12483,7 @@
         {
           "segmentId": 3142,
           "part": "part2",
-          "startSeconds": 30855.084,
+          "startSeconds": 30855.084000000003,
           "endSeconds": 30858.929,
           "segmentStartSeconds": 30854.0,
           "segmentEndSeconds": 30859.0,
@@ -12514,7 +12544,7 @@
           "segmentId": 3223,
           "part": "part2",
           "startSeconds": 31540.0,
-          "endSeconds": 31542.31,
+          "endSeconds": 31542.309999999998,
           "segmentStartSeconds": 31540.0,
           "segmentEndSeconds": 31961.0,
           "originStartSeconds": 9167.0,
@@ -12529,7 +12559,7 @@
           "segmentId": 3226,
           "part": "part2",
           "startSeconds": 32055.04,
-          "endSeconds": 32057.31,
+          "endSeconds": 32057.309999999998,
           "segmentStartSeconds": 32055.0,
           "segmentEndSeconds": 32170.0,
           "originStartSeconds": 9682.0,
@@ -12543,7 +12573,7 @@
         {
           "segmentId": 3228,
           "part": "part2",
-          "startSeconds": 32212.76,
+          "startSeconds": 32212.760000000002,
           "endSeconds": 32252.0,
           "segmentStartSeconds": 32212.0,
           "segmentEndSeconds": 32252.0,
@@ -12588,7 +12618,7 @@
         {
           "segmentId": 3386,
           "part": "part2",
-          "startSeconds": 33813.764,
+          "startSeconds": 33813.763999999996,
           "endSeconds": 33816.909,
           "segmentStartSeconds": 33813.0,
           "segmentEndSeconds": 33817.0,
@@ -12769,7 +12799,7 @@
           "segmentId": 3622,
           "part": "part2",
           "startSeconds": 35539.242,
-          "endSeconds": 35540.942,
+          "endSeconds": 35540.941999999995,
           "segmentStartSeconds": 35539.0,
           "segmentEndSeconds": 35542.0,
           "originStartSeconds": 13166.0,
@@ -12798,7 +12828,7 @@
         {
           "segmentId": 3624,
           "part": "part2",
-          "startSeconds": 35548.501,
+          "startSeconds": 35548.501000000004,
           "endSeconds": 35558.769,
           "segmentStartSeconds": 35548.0,
           "segmentEndSeconds": 35559.0,
@@ -12844,7 +12874,7 @@
           "segmentId": 3729,
           "part": "part2",
           "startSeconds": 36176.502,
-          "endSeconds": 36181.929,
+          "endSeconds": 36181.929000000004,
           "segmentStartSeconds": 36176.0,
           "segmentEndSeconds": 36182.0,
           "originStartSeconds": 13803.0,
@@ -12978,7 +13008,7 @@
           "segmentId": 3641,
           "part": "part2",
           "startSeconds": 35676.04,
-          "endSeconds": 35688.749,
+          "endSeconds": 35688.748999999996,
           "segmentStartSeconds": 35676.0,
           "segmentEndSeconds": 35689.0,
           "originStartSeconds": 13303.0,
@@ -13017,7 +13047,7 @@
         "artemis 2",
         "artemis two"
       ],
-      "mentionCount": 106,
+      "mentionCount": 107,
       "mentions": [
         {
           "segmentId": 0,
@@ -13344,7 +13374,7 @@
           "originStartSeconds": 5439.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "That call from Christina Cook, NASA Astronaut and Mission Specialist on Artemis II.",
+          "text": "That call from Christina Koch, NASA Astronaut and Mission Specialist on Artemis II.",
           "matchedAliases": [
             "artemis ii"
           ]
@@ -13600,7 +13630,7 @@
           "originStartSeconds": 10889.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "As we heard confirmation from NASA astronaut and commander of Artemis II Reed Wiseman,",
+          "text": "As we heard confirmation from NASA astronaut and commander of Artemis II Reid Wiseman,",
           "matchedAliases": [
             "artemis ii"
           ]
@@ -13616,6 +13646,21 @@
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
           "text": "We are live in the Artemis Mission Control Room during the lunar flyby of the Artemis II crew,",
+          "matchedAliases": [
+            "artemis ii"
+          ]
+        },
+        {
+          "segmentId": 1247,
+          "part": "part1",
+          "startSeconds": 12200.0,
+          "endSeconds": 12202.831,
+          "segmentStartSeconds": 12200.0,
+          "segmentEndSeconds": 12259.0,
+          "originStartSeconds": 12200.0,
+          "speaker": "LEAH_CHESHIER",
+          "displaySpeaker": "Leah Cheshier-Mustachio",
+          "text": "ii mission now 7 373 miles away from the moon 251 130 miles from earth again the Artemis ii crew",
           "matchedAliases": [
             "artemis ii"
           ]
@@ -13683,8 +13728,8 @@
         {
           "segmentId": 1460,
           "part": "part1",
-          "startSeconds": 14444.0,
-          "endSeconds": 14445.31,
+          "startSeconds": 14547.0,
+          "endSeconds": 14548.31,
           "segmentStartSeconds": 14444.0,
           "segmentEndSeconds": 14551.0,
           "originStartSeconds": 14444.0,
@@ -13735,7 +13780,7 @@
           "originStartSeconds": 15358.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "On time, NASA astronaut Christina Cook, a mission specialist for Artemis II, calling down a science SITREP, a situation report.",
+          "text": "On time, NASA astronaut Christina Koch, a mission specialist for Artemis II, calling down a science SITREP, a situation report.",
           "matchedAliases": [
             "artemis ii"
           ]
@@ -13758,8 +13803,8 @@
         {
           "segmentId": 1757,
           "part": "part1",
-          "startSeconds": 17935.08,
-          "endSeconds": 17944.233,
+          "startSeconds": 17976.0,
+          "endSeconds": 17985.153,
           "segmentStartSeconds": 17935.0,
           "segmentEndSeconds": 18001.0,
           "originStartSeconds": 17935.0,
@@ -13923,8 +13968,8 @@
         {
           "segmentId": 2190,
           "part": "part1",
-          "startSeconds": 21862.38,
-          "endSeconds": 21863.851,
+          "startSeconds": 21876.0,
+          "endSeconds": 21876.5,
           "segmentStartSeconds": 21862.0,
           "segmentEndSeconds": 21907.0,
           "originStartSeconds": 21862.0,
@@ -14359,7 +14404,7 @@
           "segmentId": 3108,
           "part": "part2",
           "startSeconds": 30427.14,
-          "endSeconds": 30432.829,
+          "endSeconds": 30432.828999999998,
           "segmentStartSeconds": 30427.0,
           "segmentEndSeconds": 30433.0,
           "originStartSeconds": 8054.0,
@@ -14374,7 +14419,7 @@
           "segmentId": 3232,
           "part": "part2",
           "startSeconds": 32332.261,
-          "endSeconds": 32336.849,
+          "endSeconds": 32336.849000000002,
           "segmentStartSeconds": 32332.0,
           "segmentEndSeconds": 32337.0,
           "originStartSeconds": 9959.0,
@@ -14418,7 +14463,7 @@
         {
           "segmentId": 3297,
           "part": "part2",
-          "startSeconds": 33300.342,
+          "startSeconds": 33300.342000000004,
           "endSeconds": 33303.728,
           "segmentStartSeconds": 33300.0,
           "segmentEndSeconds": 33304.0,
@@ -14493,7 +14538,7 @@
         {
           "segmentId": 3396,
           "part": "part2",
-          "startSeconds": 33873.02,
+          "startSeconds": 33873.020000000004,
           "endSeconds": 33878.0,
           "segmentStartSeconds": 33873.0,
           "segmentEndSeconds": 33878.0,
@@ -14796,8 +14841,8 @@
         {
           "segmentId": 647,
           "part": "part1",
-          "startSeconds": 5409.02,
-          "endSeconds": 5419.078,
+          "startSeconds": 5423.0,
+          "endSeconds": 5433.058,
           "segmentStartSeconds": 5409.0,
           "segmentEndSeconds": 5434.0,
           "originStartSeconds": 5409.0,
@@ -14827,8 +14872,8 @@
         {
           "segmentId": 1086,
           "part": "part1",
-          "startSeconds": 10377.0,
-          "endSeconds": 10389.614,
+          "startSeconds": 10404.0,
+          "endSeconds": 10412.5,
           "segmentStartSeconds": 10377.0,
           "segmentEndSeconds": 10433.0,
           "originStartSeconds": 10377.0,
@@ -14902,8 +14947,8 @@
         {
           "segmentId": 1347,
           "part": "part1",
-          "startSeconds": 13150.1,
-          "endSeconds": 13154.754,
+          "startSeconds": 13162.0,
+          "endSeconds": 13166.654,
           "segmentStartSeconds": 13150.0,
           "segmentEndSeconds": 13174.0,
           "originStartSeconds": 13150.0,
@@ -14963,7 +15008,7 @@
         {
           "segmentId": 2573,
           "part": "part2",
-          "startSeconds": 24595.401,
+          "startSeconds": 24595.400999999998,
           "endSeconds": 24604.0,
           "segmentStartSeconds": 24595.0,
           "segmentEndSeconds": 24604.0,
@@ -15009,7 +15054,7 @@
           "segmentId": 3118,
           "part": "part2",
           "startSeconds": 30559.141,
-          "endSeconds": 30571.62,
+          "endSeconds": 30571.620000000003,
           "segmentStartSeconds": 30558.0,
           "segmentEndSeconds": 30586.0,
           "originStartSeconds": 8185.0,
@@ -15097,8 +15142,8 @@
         {
           "segmentId": 283,
           "part": "part1",
-          "startSeconds": 2059.04,
-          "endSeconds": 2068.658,
+          "startSeconds": 2077.0,
+          "endSeconds": 2083.0,
           "segmentStartSeconds": 2059.0,
           "segmentEndSeconds": 2083.0,
           "originStartSeconds": 2059.0,
@@ -15504,8 +15549,8 @@
         {
           "segmentId": 672,
           "part": "part1",
-          "startSeconds": 5614.08,
-          "endSeconds": 5619.995,
+          "startSeconds": 5614.0,
+          "endSeconds": 5619.915,
           "segmentStartSeconds": 5614.0,
           "segmentEndSeconds": 5639.0,
           "originStartSeconds": 5614.0,
@@ -16693,8 +16738,8 @@
         {
           "segmentId": 2451,
           "part": "part2",
-          "startSeconds": 23827.0,
-          "endSeconds": 23828.35,
+          "startSeconds": 23958.0,
+          "endSeconds": 23959.0,
           "segmentStartSeconds": 23827.0,
           "segmentEndSeconds": 23959.0,
           "originStartSeconds": 1454.0,
@@ -16880,8 +16925,8 @@
         {
           "segmentId": 2958,
           "part": "part2",
-          "startSeconds": 28315.551,
-          "endSeconds": 28319.522,
+          "startSeconds": 28382.0,
+          "endSeconds": 28384.0,
           "segmentStartSeconds": 28227.0,
           "segmentEndSeconds": 28384.0,
           "originStartSeconds": 5854.0,
@@ -16942,7 +16987,7 @@
         {
           "segmentId": 3026,
           "part": "part2",
-          "startSeconds": 29335.848,
+          "startSeconds": 29335.847999999998,
           "endSeconds": 29337.0,
           "segmentStartSeconds": 29335.0,
           "segmentEndSeconds": 29337.0,
@@ -17005,8 +17050,8 @@
         {
           "segmentId": 3072,
           "part": "part2",
-          "startSeconds": 30047.02,
-          "endSeconds": 30049.331,
+          "startSeconds": 30074.0,
+          "endSeconds": 30076.311,
           "segmentStartSeconds": 30047.0,
           "segmentEndSeconds": 30077.0,
           "originStartSeconds": 7674.0,
@@ -17300,7 +17345,7 @@
         {
           "segmentId": 3336,
           "part": "part2",
-          "startSeconds": 33482.683,
+          "startSeconds": 33482.683000000005,
           "endSeconds": 33487.0,
           "segmentStartSeconds": 33482.0,
           "segmentEndSeconds": 33487.0,
@@ -17331,7 +17376,7 @@
         {
           "segmentId": 3377,
           "part": "part2",
-          "startSeconds": 33687.302,
+          "startSeconds": 33687.301999999996,
           "endSeconds": 33691.0,
           "segmentStartSeconds": 33687.0,
           "segmentEndSeconds": 33691.0,
@@ -17409,7 +17454,7 @@
           "segmentId": 3729,
           "part": "part2",
           "startSeconds": 36176.502,
-          "endSeconds": 36181.929,
+          "endSeconds": 36181.929000000004,
           "segmentStartSeconds": 36176.0,
           "segmentEndSeconds": 36182.0,
           "originStartSeconds": 13803.0,
@@ -17619,7 +17664,7 @@
           "segmentId": 3140,
           "part": "part2",
           "startSeconds": 30844.141,
-          "endSeconds": 30848.829,
+          "endSeconds": 30848.828999999998,
           "segmentStartSeconds": 30844.0,
           "segmentEndSeconds": 30849.0,
           "originStartSeconds": 8471.0,
@@ -17634,7 +17679,7 @@
         {
           "segmentId": 3157,
           "part": "part2",
-          "startSeconds": 30974.543,
+          "startSeconds": 30974.542999999998,
           "endSeconds": 30978.0,
           "segmentStartSeconds": 30974.0,
           "segmentEndSeconds": 30978.0,
@@ -18086,8 +18131,8 @@
         {
           "segmentId": 3090,
           "part": "part2",
-          "startSeconds": 30155.402,
-          "endSeconds": 30158.848,
+          "startSeconds": 30155.402000000002,
+          "endSeconds": 30158.847999999998,
           "segmentStartSeconds": 30155.0,
           "segmentEndSeconds": 30159.0,
           "originStartSeconds": 7782.0,
@@ -18161,7 +18206,7 @@
         {
           "segmentId": 3356,
           "part": "part2",
-          "startSeconds": 33595.02,
+          "startSeconds": 33595.020000000004,
           "endSeconds": 33599.0,
           "segmentStartSeconds": 33595.0,
           "segmentEndSeconds": 33599.0,
@@ -18563,7 +18608,7 @@
         {
           "segmentId": 3029,
           "part": "part2",
-          "startSeconds": 29344.221,
+          "startSeconds": 29344.220999999998,
           "endSeconds": 29347.969,
           "segmentStartSeconds": 29344.0,
           "segmentEndSeconds": 29348.0,
@@ -18623,7 +18668,7 @@
         {
           "segmentId": 3164,
           "part": "part2",
-          "startSeconds": 31006.202,
+          "startSeconds": 31006.201999999997,
           "endSeconds": 31008.0,
           "segmentStartSeconds": 31006.0,
           "segmentEndSeconds": 31008.0,
@@ -18638,8 +18683,8 @@
         {
           "segmentId": 3166,
           "part": "part2",
-          "startSeconds": 31014.421,
-          "endSeconds": 31021.216,
+          "startSeconds": 31014.0,
+          "endSeconds": 31020.795,
           "segmentStartSeconds": 31013.0,
           "segmentEndSeconds": 31041.0,
           "originStartSeconds": 8640.0,
@@ -18653,7 +18698,7 @@
         {
           "segmentId": 3336,
           "part": "part2",
-          "startSeconds": 33482.683,
+          "startSeconds": 33482.683000000005,
           "endSeconds": 33487.0,
           "segmentStartSeconds": 33482.0,
           "segmentEndSeconds": 33487.0,
@@ -18863,8 +18908,8 @@
         {
           "segmentId": 475,
           "part": "part1",
-          "startSeconds": 3482.22,
-          "endSeconds": 3487.472,
+          "startSeconds": 3482.0,
+          "endSeconds": 3487.252,
           "segmentStartSeconds": 3482.0,
           "segmentEndSeconds": 3529.0,
           "originStartSeconds": 3482.0,
@@ -19303,7 +19348,7 @@
         {
           "segmentId": 2690,
           "part": "part2",
-          "startSeconds": 25018.563,
+          "startSeconds": 25018.563000000002,
           "endSeconds": 25022.0,
           "segmentStartSeconds": 25018.0,
           "segmentEndSeconds": 25022.0,
@@ -19318,7 +19363,7 @@
         {
           "segmentId": 2719,
           "part": "part2",
-          "startSeconds": 25402.063,
+          "startSeconds": 25402.063000000002,
           "endSeconds": 25409.0,
           "segmentStartSeconds": 25401.0,
           "segmentEndSeconds": 25409.0,
@@ -19426,7 +19471,7 @@
           "segmentId": 3436,
           "part": "part2",
           "startSeconds": 34163.722,
-          "endSeconds": 34169.929,
+          "endSeconds": 34169.929000000004,
           "segmentStartSeconds": 34163.0,
           "segmentEndSeconds": 34170.0,
           "originStartSeconds": 11790.0,
@@ -19440,7 +19485,7 @@
         {
           "segmentId": 3438,
           "part": "part2",
-          "startSeconds": 34171.02,
+          "startSeconds": 34171.020000000004,
           "endSeconds": 34175.0,
           "segmentStartSeconds": 34171.0,
           "segmentEndSeconds": 34175.0,
@@ -19582,8 +19627,10 @@
           "originStartSeconds": 448.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Those communications between NASA astronaut Christina Cook and Canadian",
+          "text": "Those communications between NASA astronaut Christina Koch and Canadian",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -19597,8 +19644,10 @@
           "originStartSeconds": 737.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Mission Specialist Christina Cook is a native of Grand Rapids, Michigan.",
+          "text": "Mission Specialist Christina Koch is a native of Grand Rapids, Michigan.",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -19689,8 +19738,10 @@
           "originStartSeconds": 3301.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "later Victor Glover and Christina Cook will be the next crew members at windows two and three",
+          "text": "later Victor Glover and Christina Koch will be the next crew members at windows two and three",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -19719,8 +19770,10 @@
           "originStartSeconds": 5214.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "You also heard NASA astronaut Christina Cooke calling down some",
+          "text": "You also heard NASA astronaut Christina Koch calling down some",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -19734,8 +19787,10 @@
           "originStartSeconds": 5439.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "That call from Christina Cook, NASA Astronaut and Mission Specialist on Artemis II.",
+          "text": "That call from Christina Koch, NASA Astronaut and Mission Specialist on Artemis II.",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -19841,8 +19896,10 @@
           "originStartSeconds": 7447.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "our pilot Victor Glover and Mission Specialist Christina Cook.",
+          "text": "our pilot Victor Glover and Mission Specialist Christina Koch.",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -19856,8 +19913,10 @@
           "originStartSeconds": 9046.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "NASA astronauts Reid Wiseman, Victor Glover, and Christina Cook, and Canadian Space Agency",
+          "text": "NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and Canadian Space Agency",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -19886,8 +19945,10 @@
           "originStartSeconds": 9287.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Victor Glover and Christina Cook serve as their support flyby crew members.",
+          "text": "Victor Glover and Christina Koch serve as their support flyby crew members.",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -19941,8 +20002,8 @@
         {
           "segmentId": 1076,
           "part": "part1",
-          "startSeconds": 10246.36,
-          "endSeconds": 10253.057,
+          "startSeconds": 10249.0,
+          "endSeconds": 10252.5,
           "segmentStartSeconds": 10246.0,
           "segmentEndSeconds": 10267.0,
           "originStartSeconds": 10246.0,
@@ -19993,8 +20054,10 @@
           "originStartSeconds": 11005.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "We were hearing from NASA astronauts Christina Cook and Victor Glover",
+          "text": "We were hearing from NASA astronauts Christina Koch and Victor Glover",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20023,8 +20086,10 @@
           "originStartSeconds": 11349.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Currently at the window, we have Victor Glover and Christina Cook, NASA astronauts, and serving",
+          "text": "Currently at the window, we have Victor Glover and Christina Koch, NASA astronauts, and serving",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20038,8 +20103,10 @@
           "originStartSeconds": 11645.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "That would be Victor Glover and Christina Cook.",
+          "text": "That would be Victor Glover and Christina Koch.",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20053,8 +20120,10 @@
           "originStartSeconds": 11996.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "as Victor Glover and Christina Cook are now at windows two and three,",
+          "text": "as Victor Glover and Christina Koch are now at windows two and three,",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20083,8 +20152,10 @@
           "originStartSeconds": 12427.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Currently aboard Orion, Victor Glover and Christina Cook are the two team members",
+          "text": "Currently aboard Orion, Victor Glover and Christina Koch are the two team members",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20098,8 +20169,10 @@
           "originStartSeconds": 12588.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Therefore, we heard more from Victor Glover and Christina Cook earlier in the day during those first blocks.",
+          "text": "Therefore, we heard more from Victor Glover and Christina Koch earlier in the day during those first blocks.",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20128,8 +20201,10 @@
           "originStartSeconds": 12776.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "That means Victor Glover and Christina Cook will be switching roles.",
+          "text": "That means Victor Glover and Christina Koch will be switching roles.",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20143,8 +20218,10 @@
           "originStartSeconds": 13042.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Again, this is NASA astronauts Victor Glover and Christina Cook at the windows.",
+          "text": "Again, this is NASA astronauts Victor Glover and Christina Koch at the windows.",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20158,8 +20235,10 @@
           "originStartSeconds": 13768.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Reid Wiseman, Victor Glover, Christina Cook, and Jeremy Hansen are now the farthest people",
+          "text": "Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen are now the farthest people",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20203,8 +20282,10 @@
           "originStartSeconds": 14412.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Most recently, Victor Glover and Christina Cook were at the windows photographing and",
+          "text": "Most recently, Victor Glover and Christina Koch were at the windows photographing and",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20218,8 +20299,10 @@
           "originStartSeconds": 15358.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "On time, NASA astronaut Christina Cook, a mission specialist for Artemis II, calling down a science SITREP, a situation report.",
+          "text": "On time, NASA astronaut Christina Koch, a mission specialist for Artemis II, calling down a science SITREP, a situation report.",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20248,8 +20331,10 @@
           "originStartSeconds": 15700.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "That's about when we heard that call down from Christina Cook with that description",
+          "text": "That's about when we heard that call down from Christina Koch with that description",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20263,8 +20348,10 @@
           "originStartSeconds": 15949.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "with Christina Cook,",
+          "text": "with Christina Koch,",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20293,8 +20380,10 @@
           "originStartSeconds": 16878.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "NASA astronaut Christina Cook calling down some questions to the science team on console.",
+          "text": "NASA astronaut Christina Koch calling down some questions to the science team on console.",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20353,8 +20442,10 @@
           "originStartSeconds": 18181.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "glover christina cook and jeremy hansen the first four people to fly around the moon in over 50",
+          "text": "glover Christina Koch and jeremy hansen the first four people to fly around the moon in over 50",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20368,8 +20459,10 @@
           "originStartSeconds": 18522.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "to the science team meanwhile victor glover and christina cook were in the background serving as",
+          "text": "to the science team meanwhile victor glover and Christina Koch were in the background serving as",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20383,8 +20476,10 @@
           "originStartSeconds": 18551.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Glover and Christina cook will be the astronauts at the window photographing",
+          "text": "Glover and Christina Koch will be the astronauts at the window photographing",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20398,8 +20493,10 @@
           "originStartSeconds": 18919.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "the window are Victor Glover and Christina Cook. They are taking pictures",
+          "text": "the window are Victor Glover and Christina Koch. They are taking pictures",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20413,8 +20510,10 @@
           "originStartSeconds": 19186.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "and Christina Cook are already photographing the moon outside of those windows. The next target is",
+          "text": "and Christina Koch are already photographing the moon outside of those windows. The next target is",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20428,8 +20527,10 @@
           "originStartSeconds": 19861.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "annotations are Victor Glover and Christina cook we are expecting loss of",
+          "text": "annotations are Victor Glover and Christina Koch we are expecting loss of",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20443,8 +20544,10 @@
           "originStartSeconds": 20254.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Currently aboard Orion, four crew members, Reid Wiseman, Victor Glover, Christina Cook, and Jeremy Hansen.",
+          "text": "Currently aboard Orion, four crew members, Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen.",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20458,8 +20561,10 @@
           "originStartSeconds": 652.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "pilot Victor Glover and mission specialist Christina Cook are observing",
+          "text": "pilot Victor Glover and mission specialist Christina Koch are observing",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20473,8 +20578,10 @@
           "originStartSeconds": 1131.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Orion, Christina Cook calling back to what she said just before a translunar injection burn,",
+          "text": "Orion, Christina Koch calling back to what she said just before a translunar injection burn,",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20482,7 +20589,7 @@
           "segmentId": 2564,
           "part": "part2",
           "startSeconds": 24521.04,
-          "endSeconds": 24527.99,
+          "endSeconds": 24527.989999999998,
           "segmentStartSeconds": 24521.0,
           "segmentEndSeconds": 24528.0,
           "originStartSeconds": 2148.0,
@@ -20503,38 +20610,44 @@
           "originStartSeconds": 2934.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "That's Reid Wiseman, Victor Glover, Christina Cook, and Jeremy Hansen.",
+          "text": "That's Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen.",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
         {
           "segmentId": 3043,
           "part": "part2",
-          "startSeconds": 29631.421,
+          "startSeconds": 29631.421000000002,
           "endSeconds": 29637.0,
           "segmentStartSeconds": 29631.0,
           "segmentEndSeconds": 29637.0,
           "originStartSeconds": 7258.0,
           "speaker": "ANNA_SCHNEIDER",
           "displaySpeaker": "Anna Schneider",
-          "text": "the windows for the final portion of the lunar flyby so Christina Cook is in",
+          "text": "the windows for the final portion of the lunar flyby so Christina Koch is in",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
         {
           "segmentId": 3235,
           "part": "part2",
-          "startSeconds": 32348.02,
-          "endSeconds": 32354.095,
+          "startSeconds": 32367.0,
+          "endSeconds": 32373.0,
           "segmentStartSeconds": 32348.0,
           "segmentEndSeconds": 32373.0,
           "originStartSeconds": 9975.0,
           "speaker": "ANNA_SCHNEIDER",
           "displaySpeaker": "Anna Schneider",
-          "text": "And NASA astronaut Christina Cook there calling down to the ground regarding some public affairs",
+          "text": "And NASA astronaut Christina Koch there calling down to the ground regarding some public affairs",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20548,8 +20661,10 @@
           "originStartSeconds": 10485.0,
           "speaker": "ANNA_SCHNEIDER",
           "displaySpeaker": "Anna Schneider",
-          "text": "alongside the two mission specialists who are Christina Cooke and Jeremy Hansen",
+          "text": "alongside the two mission specialists who are Christina Koch and Jeremy Hansen",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20563,8 +20678,10 @@
           "originStartSeconds": 11510.0,
           "speaker": "ANNA_SCHNEIDER",
           "displaySpeaker": "Anna Schneider",
-          "text": "NASA astronaut Christina Cook, and NASA astronaut Victor Glover as they prepare",
+          "text": "NASA astronaut Christina Koch, and NASA astronaut Victor Glover as they prepare",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20610,8 +20727,10 @@
           "originStartSeconds": 12591.0,
           "speaker": "ANNA_SCHNEIDER",
           "displaySpeaker": "Anna Schneider",
-          "text": "Christina Cooke and Jeremy Hansen are currently about 250,000 miles away from the Earth",
+          "text": "Christina Koch and Jeremy Hansen are currently about 250,000 miles away from the Earth",
           "matchedAliases": [
+            "christina koch",
+            "koch",
             "christina"
           ]
         },
@@ -20771,7 +20890,7 @@
           "originStartSeconds": 3301.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "later Victor Glover and Christina Cook will be the next crew members at windows two and three",
+          "text": "later Victor Glover and Christina Koch will be the next crew members at windows two and three",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -20826,8 +20945,8 @@
         {
           "segmentId": 788,
           "part": "part1",
-          "startSeconds": 7146.0,
-          "endSeconds": 7152.273,
+          "startSeconds": 7176.0,
+          "endSeconds": 7181.0,
           "segmentStartSeconds": 7146.0,
           "segmentEndSeconds": 7181.0,
           "originStartSeconds": 7146.0,
@@ -20897,7 +21016,7 @@
           "originStartSeconds": 7447.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "our pilot Victor Glover and Mission Specialist Christina Cook.",
+          "text": "our pilot Victor Glover and Mission Specialist Christina Koch.",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21055,7 +21174,7 @@
           "originStartSeconds": 9046.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "NASA astronauts Reid Wiseman, Victor Glover, and Christina Cook, and Canadian Space Agency",
+          "text": "NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and Canadian Space Agency",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21072,7 +21191,7 @@
           "originStartSeconds": 9287.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Victor Glover and Christina Cook serve as their support flyby crew members.",
+          "text": "Victor Glover and Christina Koch serve as their support flyby crew members.",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21217,7 +21336,7 @@
           "originStartSeconds": 11005.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "We were hearing from NASA astronauts Christina Cook and Victor Glover",
+          "text": "We were hearing from NASA astronauts Christina Koch and Victor Glover",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21249,7 +21368,7 @@
           "originStartSeconds": 11349.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Currently at the window, we have Victor Glover and Christina Cook, NASA astronauts, and serving",
+          "text": "Currently at the window, we have Victor Glover and Christina Koch, NASA astronauts, and serving",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21266,7 +21385,7 @@
           "originStartSeconds": 11645.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "That would be Victor Glover and Christina Cook.",
+          "text": "That would be Victor Glover and Christina Koch.",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21283,7 +21402,7 @@
           "originStartSeconds": 11996.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "as Victor Glover and Christina Cook are now at windows two and three,",
+          "text": "as Victor Glover and Christina Koch are now at windows two and three,",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21315,7 +21434,7 @@
           "originStartSeconds": 12427.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Currently aboard Orion, Victor Glover and Christina Cook are the two team members",
+          "text": "Currently aboard Orion, Victor Glover and Christina Koch are the two team members",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21332,7 +21451,7 @@
           "originStartSeconds": 12588.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Therefore, we heard more from Victor Glover and Christina Cook earlier in the day during those first blocks.",
+          "text": "Therefore, we heard more from Victor Glover and Christina Koch earlier in the day during those first blocks.",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21364,7 +21483,7 @@
           "originStartSeconds": 12776.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "That means Victor Glover and Christina Cook will be switching roles.",
+          "text": "That means Victor Glover and Christina Koch will be switching roles.",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21381,7 +21500,7 @@
           "originStartSeconds": 13042.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Again, this is NASA astronauts Victor Glover and Christina Cook at the windows.",
+          "text": "Again, this is NASA astronauts Victor Glover and Christina Koch at the windows.",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21413,7 +21532,7 @@
           "originStartSeconds": 13768.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Reid Wiseman, Victor Glover, Christina Cook, and Jeremy Hansen are now the farthest people",
+          "text": "Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen are now the farthest people",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21475,7 +21594,7 @@
           "originStartSeconds": 14412.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Most recently, Victor Glover and Christina Cook were at the windows photographing and",
+          "text": "Most recently, Victor Glover and Christina Koch were at the windows photographing and",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21530,8 +21649,8 @@
         {
           "segmentId": 1579,
           "part": "part1",
-          "startSeconds": 15746.12,
-          "endSeconds": 15766.874,
+          "startSeconds": 15837.0,
+          "endSeconds": 15845.0,
           "segmentStartSeconds": 15746.0,
           "segmentEndSeconds": 15845.0,
           "originStartSeconds": 15746.0,
@@ -21695,8 +21814,8 @@
         {
           "segmentId": 1738,
           "part": "part1",
-          "startSeconds": 17601.4,
-          "endSeconds": 17612.375,
+          "startSeconds": 17642.0,
+          "endSeconds": 17645.0,
           "segmentStartSeconds": 17601.0,
           "segmentEndSeconds": 17645.0,
           "originStartSeconds": 17601.0,
@@ -21755,8 +21874,8 @@
         {
           "segmentId": 1757,
           "part": "part1",
-          "startSeconds": 17935.08,
-          "endSeconds": 17944.233,
+          "startSeconds": 17976.0,
+          "endSeconds": 17985.153,
           "segmentStartSeconds": 17935.0,
           "segmentEndSeconds": 18001.0,
           "originStartSeconds": 17935.0,
@@ -21809,7 +21928,7 @@
           "originStartSeconds": 18181.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "glover christina cook and jeremy hansen the first four people to fly around the moon in over 50",
+          "text": "glover Christina Koch and jeremy hansen the first four people to fly around the moon in over 50",
           "matchedAliases": [
             "glover"
           ]
@@ -21824,7 +21943,7 @@
           "originStartSeconds": 18522.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "to the science team meanwhile victor glover and christina cook were in the background serving as",
+          "text": "to the science team meanwhile victor glover and Christina Koch were in the background serving as",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21856,7 +21975,7 @@
           "originStartSeconds": 18551.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Glover and Christina cook will be the astronauts at the window photographing",
+          "text": "Glover and Christina Koch will be the astronauts at the window photographing",
           "matchedAliases": [
             "glover"
           ]
@@ -21871,7 +21990,7 @@
           "originStartSeconds": 18919.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "the window are Victor Glover and Christina Cook. They are taking pictures",
+          "text": "the window are Victor Glover and Christina Koch. They are taking pictures",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21905,7 +22024,7 @@
           "originStartSeconds": 19861.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "annotations are Victor Glover and Christina cook we are expecting loss of",
+          "text": "annotations are Victor Glover and Christina Koch we are expecting loss of",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -21922,7 +22041,7 @@
           "originStartSeconds": 20254.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Currently aboard Orion, four crew members, Reid Wiseman, Victor Glover, Christina Cook, and Jeremy Hansen.",
+          "text": "Currently aboard Orion, four crew members, Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen.",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -22001,7 +22120,7 @@
           "originStartSeconds": 652.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "pilot Victor Glover and mission specialist Christina Cook are observing",
+          "text": "pilot Victor Glover and mission specialist Christina Koch are observing",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -22012,7 +22131,7 @@
           "segmentId": 2564,
           "part": "part2",
           "startSeconds": 24521.04,
-          "endSeconds": 24527.99,
+          "endSeconds": 24527.989999999998,
           "segmentStartSeconds": 24521.0,
           "segmentEndSeconds": 24528.0,
           "originStartSeconds": 2148.0,
@@ -22063,7 +22182,7 @@
           "originStartSeconds": 2934.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "That's Reid Wiseman, Victor Glover, Christina Cook, and Jeremy Hansen.",
+          "text": "That's Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen.",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -22153,7 +22272,7 @@
           "segmentId": 3058,
           "part": "part2",
           "startSeconds": 29808.381,
-          "endSeconds": 29809.974,
+          "endSeconds": 29809.974000000002,
           "segmentStartSeconds": 29808.0,
           "segmentEndSeconds": 29818.0,
           "originStartSeconds": 7435.0,
@@ -22167,8 +22286,8 @@
         {
           "segmentId": 3059,
           "part": "part2",
-          "startSeconds": 29818.0,
-          "endSeconds": 29821.493,
+          "startSeconds": 29834.0,
+          "endSeconds": 29837.493000000002,
           "segmentStartSeconds": 29818.0,
           "segmentEndSeconds": 29840.0,
           "originStartSeconds": 7445.0,
@@ -22212,7 +22331,7 @@
         {
           "segmentId": 3280,
           "part": "part2",
-          "startSeconds": 32853.321,
+          "startSeconds": 32853.320999999996,
           "endSeconds": 32857.949,
           "segmentStartSeconds": 32853.0,
           "segmentEndSeconds": 32858.0,
@@ -22236,7 +22355,7 @@
           "originStartSeconds": 11510.0,
           "speaker": "ANNA_SCHNEIDER",
           "displaySpeaker": "Anna Schneider",
-          "text": "NASA astronaut Christina Cook, and NASA astronaut Victor Glover as they prepare",
+          "text": "NASA astronaut Christina Koch, and NASA astronaut Victor Glover as they prepare",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -22268,7 +22387,7 @@
           "originStartSeconds": 11746.0,
           "speaker": "PRESIDENT_TRUMP",
           "displaySpeaker": "Donald J. Trump",
-          "text": "special. I want to personally salute and congratulate Commander Reid Weissman, Pilot Victor Glover,",
+          "text": "special. I want to personally salute and congratulate Commander Reid Wiseman, Pilot Victor Glover,",
           "matchedAliases": [
             "victor glover",
             "glover",
@@ -22429,7 +22548,7 @@
           "originStartSeconds": 3280.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "making audio recordings. To get a little more detailed, Reed Wiseman and Jeremy Hansen will",
+          "text": "making audio recordings. To get a little more detailed, Reid Wiseman and Jeremy Hansen will",
           "matchedAliases": [
             "jeremy hansen",
             "hansen",
@@ -22595,7 +22714,7 @@
           "originStartSeconds": 9282.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Right now that crew is Commander Reed Wiseman and Mission Specialist Jeremy Hansen, while",
+          "text": "Right now that crew is Commander Reid Wiseman and Mission Specialist Jeremy Hansen, while",
           "matchedAliases": [
             "jeremy hansen",
             "hansen",
@@ -22644,7 +22763,7 @@
           "originStartSeconds": 10978.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "So initially, Reed Wiseman and Jeremy Hansen were at Windows 2 and 3",
+          "text": "So initially, Reid Wiseman and Jeremy Hansen were at Windows 2 and 3",
           "matchedAliases": [
             "jeremy hansen",
             "hansen",
@@ -22669,8 +22788,8 @@
         {
           "segmentId": 1176,
           "part": "part1",
-          "startSeconds": 11354.641,
-          "endSeconds": 11358.274,
+          "startSeconds": 11354.0,
+          "endSeconds": 11357.633,
           "segmentStartSeconds": 11354.0,
           "segmentEndSeconds": 11374.0,
           "originStartSeconds": 11354.0,
@@ -22727,8 +22846,10 @@
           "originStartSeconds": 12594.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "But now that Reed Wiseman and Jeremy Hanson are on the support side, they are the ones calling down what they are seeing from Windows 1 and 4.",
+          "text": "But now that Reid Wiseman and Jeremy Hansen are on the support side, they are the ones calling down what they are seeing from Windows 1 and 4.",
           "matchedAliases": [
+            "jeremy hansen",
+            "hansen",
             "jeremy"
           ]
         },
@@ -22787,7 +22908,7 @@
           "originStartSeconds": 13768.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Reid Wiseman, Victor Glover, Christina Cook, and Jeremy Hansen are now the farthest people",
+          "text": "Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen are now the farthest people",
           "matchedAliases": [
             "jeremy hansen",
             "hansen",
@@ -22930,7 +23051,7 @@
           "originStartSeconds": 15421.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "are Reed Wiseman and Jeremy Hansen.",
+          "text": "are Reid Wiseman and Jeremy Hansen.",
           "matchedAliases": [
             "jeremy hansen",
             "hansen",
@@ -22964,7 +23085,7 @@
           "originStartSeconds": 16000.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "the window portion of their flyby today, Reed Wiseman and Jeremy Hansen will get into their",
+          "text": "the window portion of their flyby today, Reid Wiseman and Jeremy Hansen will get into their",
           "matchedAliases": [
             "jeremy hansen",
             "hansen",
@@ -22996,7 +23117,7 @@
           "originStartSeconds": 17072.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "windows, specifically Reed Wiseman and Jeremy Hansen.",
+          "text": "windows, specifically Reid Wiseman and Jeremy Hansen.",
           "matchedAliases": [
             "jeremy hansen",
             "hansen",
@@ -23013,7 +23134,7 @@
           "originStartSeconds": 18181.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "glover christina cook and jeremy hansen the first four people to fly around the moon in over 50",
+          "text": "glover Christina Koch and jeremy hansen the first four people to fly around the moon in over 50",
           "matchedAliases": [
             "jeremy hansen",
             "hansen",
@@ -23047,7 +23168,7 @@
           "originStartSeconds": 18511.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "switch cabin and window teams we've had reed wiseman and jeremy hansen at the windows taking",
+          "text": "switch cabin and window teams we've had Reid Wiseman and jeremy hansen at the windows taking",
           "matchedAliases": [
             "jeremy hansen",
             "hansen",
@@ -23113,7 +23234,7 @@
           "originStartSeconds": 18930.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "time reed wiseman and jeremy hansen are serving as support crew members and they are also going",
+          "text": "time Reid Wiseman and jeremy hansen are serving as support crew members and they are also going",
           "matchedAliases": [
             "jeremy hansen",
             "hansen",
@@ -23175,7 +23296,7 @@
           "originStartSeconds": 20254.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Currently aboard Orion, four crew members, Reid Wiseman, Victor Glover, Christina Cook, and Jeremy Hansen.",
+          "text": "Currently aboard Orion, four crew members, Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen.",
           "matchedAliases": [
             "jeremy hansen",
             "hansen",
@@ -23207,7 +23328,7 @@
           "originStartSeconds": 700.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Right now the support team members are Reed Wiseman and Jeremy Hansen.",
+          "text": "Right now the support team members are Reid Wiseman and Jeremy Hansen.",
           "matchedAliases": [
             "jeremy hansen",
             "hansen",
@@ -23233,7 +23354,7 @@
           "segmentId": 2564,
           "part": "part2",
           "startSeconds": 24521.04,
-          "endSeconds": 24527.99,
+          "endSeconds": 24527.989999999998,
           "segmentStartSeconds": 24521.0,
           "segmentEndSeconds": 24528.0,
           "originStartSeconds": 2148.0,
@@ -23254,7 +23375,7 @@
           "originStartSeconds": 2934.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "That's Reid Wiseman, Victor Glover, Christina Cook, and Jeremy Hansen.",
+          "text": "That's Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen.",
           "matchedAliases": [
             "jeremy hansen",
             "hansen",
@@ -23359,7 +23480,7 @@
           "segmentId": 3196,
           "part": "part2",
           "startSeconds": 31332.0,
-          "endSeconds": 31336.293,
+          "endSeconds": 31336.292999999998,
           "segmentStartSeconds": 31332.0,
           "segmentEndSeconds": 31363.0,
           "originStartSeconds": 8959.0,
@@ -23391,7 +23512,7 @@
           "segmentId": 3225,
           "part": "part2",
           "startSeconds": 31992.14,
-          "endSeconds": 32048.348,
+          "endSeconds": 32048.347999999998,
           "segmentStartSeconds": 31992.0,
           "segmentEndSeconds": 32055.0,
           "originStartSeconds": 9619.0,
@@ -23427,7 +23548,7 @@
           "originStartSeconds": 10485.0,
           "speaker": "ANNA_SCHNEIDER",
           "displaySpeaker": "Anna Schneider",
-          "text": "alongside the two mission specialists who are Christina Cooke and Jeremy Hansen",
+          "text": "alongside the two mission specialists who are Christina Koch and Jeremy Hansen",
           "matchedAliases": [
             "jeremy hansen",
             "hansen",
@@ -23437,7 +23558,7 @@
         {
           "segmentId": 3396,
           "part": "part2",
-          "startSeconds": 33873.02,
+          "startSeconds": 33873.020000000004,
           "endSeconds": 33878.0,
           "segmentStartSeconds": 33873.0,
           "segmentEndSeconds": 33878.0,
@@ -23461,8 +23582,10 @@
           "originStartSeconds": 11523.0,
           "speaker": "ANNA_SCHNEIDER",
           "displaySpeaker": "Anna Schneider",
-          "text": "or Canadian Space Agency astronaut Jeremy Hanson.",
+          "text": "or Canadian Space Agency astronaut Jeremy Hansen.",
           "matchedAliases": [
+            "jeremy hansen",
+            "hansen",
             "jeremy"
           ]
         },
@@ -23525,7 +23648,7 @@
           "originStartSeconds": 12591.0,
           "speaker": "ANNA_SCHNEIDER",
           "displaySpeaker": "Anna Schneider",
-          "text": "Christina Cooke and Jeremy Hansen are currently about 250,000 miles away from the Earth",
+          "text": "Christina Koch and Jeremy Hansen are currently about 250,000 miles away from the Earth",
           "matchedAliases": [
             "jeremy hansen",
             "hansen",
@@ -23733,9 +23856,11 @@
           "originStartSeconds": 3280.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "making audio recordings. To get a little more detailed, Reed Wiseman and Jeremy Hansen will",
+          "text": "making audio recordings. To get a little more detailed, Reid Wiseman and Jeremy Hansen will",
           "matchedAliases": [
-            "wiseman"
+            "reid wiseman",
+            "wiseman",
+            "reid"
           ]
         },
         {
@@ -23748,9 +23873,11 @@
           "originStartSeconds": 3974.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Another near Glushko, which is a bright spot, named Carol, in memory of Reed Wiseman's wife.",
+          "text": "Another near Glushko, which is a bright spot, named Carol, in memory of Reid Wiseman's wife.",
           "matchedAliases": [
-            "wiseman"
+            "reid wiseman",
+            "wiseman",
+            "reid"
           ]
         },
         {
@@ -23795,9 +23922,11 @@
           "originStartSeconds": 7437.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Right now, taking photos are Commander Reed Wiseman",
+          "text": "Right now, taking photos are Commander Reid Wiseman",
           "matchedAliases": [
-            "wiseman"
+            "reid wiseman",
+            "wiseman",
+            "reid"
           ]
         },
         {
@@ -23859,7 +23988,7 @@
           "originStartSeconds": 9046.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "NASA astronauts Reid Wiseman, Victor Glover, and Christina Cook, and Canadian Space Agency",
+          "text": "NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and Canadian Space Agency",
           "matchedAliases": [
             "reid wiseman",
             "wiseman",
@@ -23876,9 +24005,11 @@
           "originStartSeconds": 9282.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Right now that crew is Commander Reed Wiseman and Mission Specialist Jeremy Hansen, while",
+          "text": "Right now that crew is Commander Reid Wiseman and Mission Specialist Jeremy Hansen, while",
           "matchedAliases": [
-            "wiseman"
+            "reid wiseman",
+            "wiseman",
+            "reid"
           ]
         },
         {
@@ -23923,9 +24054,11 @@
           "originStartSeconds": 10889.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "As we heard confirmation from NASA astronaut and commander of Artemis II Reed Wiseman,",
+          "text": "As we heard confirmation from NASA astronaut and commander of Artemis II Reid Wiseman,",
           "matchedAliases": [
-            "wiseman"
+            "reid wiseman",
+            "wiseman",
+            "reid"
           ]
         },
         {
@@ -23938,9 +24071,11 @@
           "originStartSeconds": 10978.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "So initially, Reed Wiseman and Jeremy Hansen were at Windows 2 and 3",
+          "text": "So initially, Reid Wiseman and Jeremy Hansen were at Windows 2 and 3",
           "matchedAliases": [
-            "wiseman"
+            "reid wiseman",
+            "wiseman",
+            "reid"
           ]
         },
         {
@@ -23961,8 +24096,8 @@
         {
           "segmentId": 1176,
           "part": "part1",
-          "startSeconds": 11354.641,
-          "endSeconds": 11358.274,
+          "startSeconds": 11354.0,
+          "endSeconds": 11357.633,
           "segmentStartSeconds": 11354.0,
           "segmentEndSeconds": 11374.0,
           "originStartSeconds": 11354.0,
@@ -24002,9 +24137,11 @@
           "originStartSeconds": 12574.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "We most recently had one from Commander Reed Wiseman.",
+          "text": "We most recently had one from Commander Reid Wiseman.",
           "matchedAliases": [
-            "wiseman"
+            "reid wiseman",
+            "wiseman",
+            "reid"
           ]
         },
         {
@@ -24017,9 +24154,11 @@
           "originStartSeconds": 12594.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "But now that Reed Wiseman and Jeremy Hanson are on the support side, they are the ones calling down what they are seeing from Windows 1 and 4.",
+          "text": "But now that Reid Wiseman and Jeremy Hansen are on the support side, they are the ones calling down what they are seeing from Windows 1 and 4.",
           "matchedAliases": [
-            "wiseman"
+            "reid wiseman",
+            "wiseman",
+            "reid"
           ]
         },
         {
@@ -24032,7 +24171,7 @@
           "originStartSeconds": 13768.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Reid Wiseman, Victor Glover, Christina Cook, and Jeremy Hansen are now the farthest people",
+          "text": "Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen are now the farthest people",
           "matchedAliases": [
             "reid wiseman",
             "wiseman",
@@ -24115,9 +24254,11 @@
           "originStartSeconds": 15421.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "are Reed Wiseman and Jeremy Hansen.",
+          "text": "are Reid Wiseman and Jeremy Hansen.",
           "matchedAliases": [
-            "wiseman"
+            "reid wiseman",
+            "wiseman",
+            "reid"
           ]
         },
         {
@@ -24147,9 +24288,11 @@
           "originStartSeconds": 16000.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "the window portion of their flyby today, Reed Wiseman and Jeremy Hansen will get into their",
+          "text": "the window portion of their flyby today, Reid Wiseman and Jeremy Hansen will get into their",
           "matchedAliases": [
-            "wiseman"
+            "reid wiseman",
+            "wiseman",
+            "reid"
           ]
         },
         {
@@ -24162,9 +24305,11 @@
           "originStartSeconds": 17072.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "windows, specifically Reed Wiseman and Jeremy Hansen.",
+          "text": "windows, specifically Reid Wiseman and Jeremy Hansen.",
           "matchedAliases": [
-            "wiseman"
+            "reid wiseman",
+            "wiseman",
+            "reid"
           ]
         },
         {
@@ -24194,9 +24339,11 @@
           "originStartSeconds": 18511.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "switch cabin and window teams we've had reed wiseman and jeremy hansen at the windows taking",
+          "text": "switch cabin and window teams we've had Reid Wiseman and jeremy hansen at the windows taking",
           "matchedAliases": [
-            "wiseman"
+            "reid wiseman",
+            "wiseman",
+            "reid"
           ]
         },
         {
@@ -24226,9 +24373,11 @@
           "originStartSeconds": 18930.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "time reed wiseman and jeremy hansen are serving as support crew members and they are also going",
+          "text": "time Reid Wiseman and jeremy hansen are serving as support crew members and they are also going",
           "matchedAliases": [
-            "wiseman"
+            "reid wiseman",
+            "wiseman",
+            "reid"
           ]
         },
         {
@@ -24271,7 +24420,7 @@
           "originStartSeconds": 20254.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Currently aboard Orion, four crew members, Reid Wiseman, Victor Glover, Christina Cook, and Jeremy Hansen.",
+          "text": "Currently aboard Orion, four crew members, Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen.",
           "matchedAliases": [
             "reid wiseman",
             "wiseman",
@@ -24288,9 +24437,11 @@
           "originStartSeconds": 700.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "Right now the support team members are Reed Wiseman and Jeremy Hansen.",
+          "text": "Right now the support team members are Reid Wiseman and Jeremy Hansen.",
           "matchedAliases": [
-            "wiseman"
+            "reid wiseman",
+            "wiseman",
+            "reid"
           ]
         },
         {
@@ -24303,7 +24454,7 @@
           "originStartSeconds": 2934.0,
           "speaker": "LEAH_CHESHIER",
           "displaySpeaker": "Leah Cheshier-Mustachio",
-          "text": "That's Reid Wiseman, Victor Glover, Christina Cook, and Jeremy Hansen.",
+          "text": "That's Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen.",
           "matchedAliases": [
             "reid wiseman",
             "wiseman",
@@ -24330,7 +24481,7 @@
         {
           "segmentId": 2827,
           "part": "part2",
-          "startSeconds": 26504.221,
+          "startSeconds": 26504.220999999998,
           "endSeconds": 26507.0,
           "segmentStartSeconds": 26504.0,
           "segmentEndSeconds": 26507.0,
@@ -24375,7 +24526,7 @@
         {
           "segmentId": 3279,
           "part": "part2",
-          "startSeconds": 32847.823,
+          "startSeconds": 32847.823000000004,
           "endSeconds": 32852.849,
           "segmentStartSeconds": 32847.0,
           "segmentEndSeconds": 32853.0,
@@ -24431,8 +24582,10 @@
           "originStartSeconds": 11746.0,
           "speaker": "PRESIDENT_TRUMP",
           "displaySpeaker": "Donald J. Trump",
-          "text": "special. I want to personally salute and congratulate Commander Reid Weissman, Pilot Victor Glover,",
+          "text": "special. I want to personally salute and congratulate Commander Reid Wiseman, Pilot Victor Glover,",
           "matchedAliases": [
+            "reid wiseman",
+            "wiseman",
             "reid"
           ]
         },
@@ -24456,8 +24609,8 @@
         {
           "segmentId": 3599,
           "part": "part2",
-          "startSeconds": 34986.0,
-          "endSeconds": 35009.156,
+          "startSeconds": 34997.0,
+          "endSeconds": 35009.5,
           "segmentStartSeconds": 34986.0,
           "segmentEndSeconds": 35057.0,
           "originStartSeconds": 12613.0,
@@ -25608,14 +25761,14 @@
         {
           "segmentId": 3419,
           "part": "part2",
-          "startSeconds": 34084.0,
+          "startSeconds": 34086.108,
           "endSeconds": 34089.0,
           "segmentStartSeconds": 34084.0,
           "segmentEndSeconds": 34089.0,
           "originStartSeconds": 11711.0,
           "speaker": "PRESIDENT_TRUMP",
           "displaySpeaker": "Donald J. Trump",
-          "text": "PRESIDENT DONALD J. Well, thank you very much, Jared, and you are doing a fantastic",
+          "text": "Well, thank you very much, Jared, and you are doing a fantastic",
           "matchedAliases": [
             "jared"
           ]
@@ -25745,7 +25898,7 @@
         {
           "segmentId": 3624,
           "part": "part2",
-          "startSeconds": 35548.501,
+          "startSeconds": 35548.501000000004,
           "endSeconds": 35558.769,
           "segmentStartSeconds": 35548.0,
           "segmentEndSeconds": 35559.0,
@@ -25816,7 +25969,7 @@
         "trump",
         "donald"
       ],
-      "mentionCount": 3,
+      "mentionCount": 2,
       "mentions": [
         {
           "segmentId": 3417,
@@ -25832,21 +25985,6 @@
           "matchedAliases": [
             "donald j. trump",
             "trump",
-            "donald"
-          ]
-        },
-        {
-          "segmentId": 3419,
-          "part": "part2",
-          "startSeconds": 34084.0,
-          "endSeconds": 34089.0,
-          "segmentStartSeconds": 34084.0,
-          "segmentEndSeconds": 34089.0,
-          "originStartSeconds": 11711.0,
-          "speaker": "PRESIDENT_TRUMP",
-          "displaySpeaker": "Donald J. Trump",
-          "text": "PRESIDENT DONALD J. Well, thank you very much, Jared, and you are doing a fantastic",
-          "matchedAliases": [
             "donald"
           ]
         },
@@ -25992,7 +26130,7 @@
         {
           "segmentId": 3356,
           "part": "part2",
-          "startSeconds": 33595.02,
+          "startSeconds": 33595.020000000004,
           "endSeconds": 33599.0,
           "segmentStartSeconds": 33595.0,
           "segmentEndSeconds": 33599.0,
@@ -26200,8 +26338,8 @@
         {
           "segmentId": 3166,
           "part": "part2",
-          "startSeconds": 31014.421,
-          "endSeconds": 31021.216,
+          "startSeconds": 31014.0,
+          "endSeconds": 31020.795,
           "segmentStartSeconds": 31013.0,
           "segmentEndSeconds": 31041.0,
           "originStartSeconds": 8640.0,

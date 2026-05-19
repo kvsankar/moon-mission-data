@@ -2,6 +2,10 @@
 
 These files are generated transcript artifacts for the Artemis II lunar flyby broadcast. The app repo references them from `assets/artemis2/data/media-manifest.json5`.
 
+Current source snapshot:
+
+- Transcribe repo commit: `b8fd81d Correct Artemis II proper noun transcripts`
+
 Canonical runtime files:
 
 - `artemis2-lunar-flyby-broadcast-combined.json`: unified Part 1 + Part 2 transcript timeline with speaker labels, word-level alignment, and schema v4 `displayStartSeconds` / `displayEndSeconds` caption ranges.
