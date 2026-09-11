@@ -13,6 +13,14 @@ This directory contains reproducible provenance records for files retained in `m
   - Captures commit-history trace from `moon-mission` / `chandrayaan3-origin`, migration commit in `moon-mission-data`, and hash-matched upstream URLs where available.
   - Consumed by `scripts/generate_runtime_asset_manifest.py` when assigning `provenance` to `shared-image` assets.
 
+- `../images/moon/terrain-v1-provenance.json`
+  - Source, units, reduction, dimensions and hashes for the prepared Physical terrain.
+  - Kept with the app/data asset mirror; generators live in the app repository.
+
+The committed runtime manifest is a dated audit snapshot, not a release lockfile.
+Regenerate it against the exact app checkout being released. The collector includes
+all six Moon profile assets and retains their terrain provenance during pruning.
+
 ## Regeneration
 
 From this repository root:
