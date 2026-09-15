@@ -36,12 +36,15 @@ so all six profile assets are available when staging this repository.
 
 | Tier | Color under `images/moon/` | Terrain under `images/moon/` |
 | --- | --- | --- |
-| Low | `lroc_color_2025_2k_low.jpg` | `terrain-low-v1.moon.gz` |
-| Medium | `lroc_color_2025_4k_fast.jpg` | `terrain-medium-v1.moon.gz` |
+| Low | `lroc_color_2025_2k_low.jpg` | `terrain-low-v2.moon.gz` |
+| Medium | `lroc_color_2025_4k_fast.jpg` | `terrain-medium-v2.moon.gz` |
 | High | `lroc_color_2025_16k_quality.jpg` | `ldem_16_uint_quality.png` |
 
-Low/Medium packages preserve NASA half-metre height units and contain prepared
-physical normals. [Terrain provenance](images/moon/terrain-v1-provenance.json)
+Low/Medium V2 packages preserve the V1 height samples byte-for-byte and contain
+RGB8 normals filtered from native-resolution physical slopes. GPU dimensions stay
+unchanged; the extra downloads are 98,011 bytes (Low) and 272,763 bytes (Medium).
+Keep V1 files for existing app consumers until their rollout is retired. High's
+assets and rendering settings are unchanged. [Terrain provenance](images/moon/terrain-v2-provenance.json)
 records the source hash, reduction, dimensions, format and package hashes.
 The Low color is a 2K Pillow Lanczos resize of the existing 4K color, JPEG quality
 85; its SHA-256 is `55152d79d98eec8af51e4b7a32f9f1e9d7a82eaec162644842d4f4adbef98261`.

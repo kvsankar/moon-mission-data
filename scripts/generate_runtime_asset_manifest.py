@@ -266,7 +266,7 @@ def main() -> int:
     tracked_set = set(tracked_paths)
     required_sorted = sorted(required)
     missing = sorted(path for path in required if path not in tracked_set)
-    allowed_non_runtime_files = {"README.md", "images/moon/terrain-v1-provenance.json"}
+    allowed_non_runtime_files = {"README.md", "images/moon/terrain-v1-provenance.json", "images/moon/terrain-v2-provenance.json", "images/moon/terrain-low-v1.moon.gz", "images/moon/terrain-medium-v1.moon.gz"}
     allowed_non_runtime_prefixes = ("provenance/", "scripts/")
     unused = sorted(
         path
