@@ -28,11 +28,10 @@ This repository is intentionally pruned to keep only files required by the curre
 
 ## Physical Moon assets
 
-`codex/moon-physical-assets` supplies the runtime assets for app branch
-`codex/moon-loading-audit`. All quality tiers use the same Physical renderer;
-High retains the accepted terminator source data. This branch also mirrors
-the existing 4K/16K color and precise High height files from the app unchanged,
-so all six profile assets are available when staging this repository.
+Data `main` supplies the runtime assets for the completed Physical Moon renderer
+on app `master`. All six profile assets are available for staging. High retains
+its accepted source data; the 4K/16K color and precise High height files remain
+byte-identical to their app copies.
 
 | Tier | Color under `images/moon/` | Terrain under `images/moon/` |
 | --- | --- | --- |
@@ -52,8 +51,8 @@ The Low color is a 2K Pillow Lanczos resize of the existing 4K color, JPEG quali
 Generate these files in the app repository with `scripts/generate-moon-preview.py`
 and `scripts/generate-moon-terrain.mjs`, then mirror them here byte-for-byte.
 The 1K preview and Sun-corona textures remain app-owned under `src/platform/assets/`.
-See the app's [asset preparation guide](https://github.com/kvsankar/moon-mission/blob/codex/moon-loading-audit/docs/operations/data/moon-render-assets.md)
-and [architecture](https://github.com/kvsankar/moon-mission/blob/codex/moon-loading-audit/docs/designs/rendering/moon-rendering.md).
+See the app's [asset preparation guide](https://github.com/kvsankar/moon-mission/blob/master/docs/operations/data/moon-render-assets.md)
+and [architecture](https://github.com/kvsankar/moon-mission/blob/master/docs/designs/rendering/moon-rendering.md).
 Publish the new Low color and both packages at the production asset base before
 deploying the consuming app. A branch push alone does not deploy them.
 
